@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\bin\Debug\net6.0\MultiHilosConTask.exe
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\bin\Debug\net6.0\MultiHilosConTask.deps.json
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\bin\Debug\net6.0\MultiHilosConTask.runtimeconfig.json
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\bin\Debug\net6.0\MultiHilosConTask.dll
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\bin\Debug\net6.0\MultiHilosConTask.pdb
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.dll
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\refint\MultiHilosConTask.dll
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.pdb
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\MultiHilosConTask.genruntimeconfig.cache
+C:\Users\Alan\source\repos\MultiHilosConTask\MultiHilosConTask\obj\Debug\net6.0\ref\MultiHilosConTask.dll

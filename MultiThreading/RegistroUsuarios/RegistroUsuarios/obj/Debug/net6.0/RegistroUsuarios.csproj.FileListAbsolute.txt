@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\bin\Debug\net6.0\RegistroUsuarios.exe
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\bin\Debug\net6.0\RegistroUsuarios.deps.json
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\bin\Debug\net6.0\RegistroUsuarios.runtimeconfig.json
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\bin\Debug\net6.0\RegistroUsuarios.dll
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\bin\Debug\net6.0\RegistroUsuarios.pdb
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.AssemblyInfo.cs
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.dll
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\refint\RegistroUsuarios.dll
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.pdb
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\RegistroUsuarios.genruntimeconfig.cache
+C:\Users\Alan\source\repos\RegistroUsuarios\RegistroUsuarios\obj\Debug\net6.0\ref\RegistroUsuarios.dll
