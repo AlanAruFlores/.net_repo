@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\bin\Debug\net8.0\SocketClient.exe
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\bin\Debug\net8.0\SocketClient.deps.json
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\bin\Debug\net8.0\SocketClient.runtimeconfig.json
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\bin\Debug\net8.0\SocketClient.dll
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\bin\Debug\net8.0\SocketClient.pdb
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfo.cs
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.dll
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\refint\SocketClient.dll
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.pdb
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\SocketClient.genruntimeconfig.cache
+C:\Users\Alan\source\repos\SocketEjemplo\SocketClient\obj\Debug\net8.0\ref\SocketClient.dll
