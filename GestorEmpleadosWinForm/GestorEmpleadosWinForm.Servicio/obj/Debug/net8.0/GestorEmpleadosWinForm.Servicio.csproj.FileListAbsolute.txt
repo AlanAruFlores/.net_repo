@@ -1,0 +1,15 @@
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\bin\Debug\net8.0\GestorEmpleadosWinForm.Servicio.deps.json
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\bin\Debug\net8.0\GestorEmpleadosWinForm.Servicio.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\bin\Debug\net8.0\GestorEmpleadosWinForm.Servicio.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\bin\Debug\net8.0\GestorEmpleadosWinForm.Entidad.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\bin\Debug\net8.0\GestorEmpleadosWinForm.Entidad.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.AssemblyInfo.cs
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEm.90EB8E5B.Up2Date
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\refint\GestorEmpleadosWinForm.Servicio.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\GestorEmpleadosWinForm.Servicio.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Servicio\obj\Debug\net8.0\ref\GestorEmpleadosWinForm.Servicio.dll

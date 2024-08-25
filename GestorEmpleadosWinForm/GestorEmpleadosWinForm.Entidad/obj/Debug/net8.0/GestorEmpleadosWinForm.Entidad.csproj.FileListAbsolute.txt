@@ -1,0 +1,11 @@
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\bin\Debug\net8.0\GestorEmpleadosWinForm.Entidad.deps.json
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\bin\Debug\net8.0\GestorEmpleadosWinForm.Entidad.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\bin\Debug\net8.0\GestorEmpleadosWinForm.Entidad.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\GestorEmpleadosWinForm.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\GestorEmpleadosWinForm.Entidad.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\GestorEmpleadosWinForm.Entidad.AssemblyInfo.cs
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\GestorEmpleadosWinForm.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\GestorEmpleadosWinForm.Entidad.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\refint\GestorEmpleadosWinForm.Entidad.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\GestorEmpleadosWinForm.Entidad.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm.Entidad\obj\Debug\net8.0\ref\GestorEmpleadosWinForm.Entidad.dll

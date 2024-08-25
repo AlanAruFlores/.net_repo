@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "GestorEmpleadosWinForm.Entidad/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GestorEmpleadosWinForm.Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GestorEmpleadosWinForm.Entidad.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GestorEmpleadosWinForm.Entidad/1.0.0": {
+      "type": "project",
+      "path": "../GestorEmpleadosWinForm.Entidad/GestorEmpleadosWinForm.Entidad.csproj",
+      "msbuildProject": "../GestorEmpleadosWinForm.Entidad/GestorEmpleadosWinForm.Entidad.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "GestorEmpleadosWinForm.Entidad >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alan\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.Entidad\\GestorEmpleadosWinForm.Entidad.csproj": {
+              "projectPath": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.Entidad\\GestorEmpleadosWinForm.Entidad.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

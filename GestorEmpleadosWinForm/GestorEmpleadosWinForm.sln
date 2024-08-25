@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorEmpleadosWinForm", "GestorEmpleadosWinForm\GestorEmpleadosWinForm.csproj", "{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestorEmpleadosWinForm", "GestorEmpleadosWinForm\GestorEmpleadosWinForm.csproj", "{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorEmpleadosWinForm.Entidad", "GestorEmpleadosWinForm.Entidad\GestorEmpleadosWinForm.Entidad.csproj", "{85679BEC-ADF3-4E62-BDCC-45BC7E4C4820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorEmpleadosWinForm.Servicio", "GestorEmpleadosWinForm.Servicio\GestorEmpleadosWinForm.Servicio.csproj", "{4751D64E-359E-4E10-8785-1BD77A89D89A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorEmpleadosWinForm.API", "GestorEmpleadosWinForm.API\GestorEmpleadosWinForm.API.csproj", "{B5189FA2-F0ED-4260-B7D7-28B116482C9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85679BEC-ADF3-4E62-BDCC-45BC7E4C4820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85679BEC-ADF3-4E62-BDCC-45BC7E4C4820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85679BEC-ADF3-4E62-BDCC-45BC7E4C4820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85679BEC-ADF3-4E62-BDCC-45BC7E4C4820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4751D64E-359E-4E10-8785-1BD77A89D89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4751D64E-359E-4E10-8785-1BD77A89D89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4751D64E-359E-4E10-8785-1BD77A89D89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4751D64E-359E-4E10-8785-1BD77A89D89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5189FA2-F0ED-4260-B7D7-28B116482C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5189FA2-F0ED-4260-B7D7-28B116482C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5189FA2-F0ED-4260-B7D7-28B116482C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5189FA2-F0ED-4260-B7D7-28B116482C9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

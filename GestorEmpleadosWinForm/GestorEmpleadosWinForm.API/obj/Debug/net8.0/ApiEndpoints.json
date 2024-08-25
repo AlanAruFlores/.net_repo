@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "GestorEmpleadosWinForm.API.Controllers.EmpleadoController",
+    "Method": "GetAllEmpleados",
+    "RelativePath": "api/Empleado/GetAllEmpleados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorEmpleadosWinForm.API.Controllers.EmpleadoController",
+    "Method": "PostNewEmpleado",
+    "RelativePath": "api/Empleado/PostNewEmpleado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleado",
+        "Type": "GestorEmpleadosWinForm.Entidad.Empleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestorEmpleadosWinForm.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestorEmpleadosWinForm.API.WeatherForecast, GestorEmpleadosWinForm.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
