@@ -1,0 +1,17 @@
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\bin\Debug\net8.0-windows\GestorEmpleadosWinForm.exe
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\bin\Debug\net8.0-windows\GestorEmpleadosWinForm.deps.json
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\bin\Debug\net8.0-windows\GestorEmpleadosWinForm.runtimeconfig.json
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\bin\Debug\net8.0-windows\GestorEmpleadosWinForm.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\bin\Debug\net8.0-windows\GestorEmpleadosWinForm.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.Form1.resources
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.Properties.Resources.resources
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.csproj.GenerateResource.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.AssemblyInfo.cs
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\refint\GestorEmpleadosWinForm.dll
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.pdb
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\GestorEmpleadosWinForm.genruntimeconfig.cache
+C:\Users\Alan\source\repos\GestorEmpleadosWinForm\GestorEmpleadosWinForm\obj\Debug\net8.0-windows\ref\GestorEmpleadosWinForm.dll
