@@ -36,7 +36,8 @@ namespace GestorEmpleadosWinForm
             GuardarEmpleado(nuevo);
         }
 
-        private async Task GuardarEmpleado(Empleado empleado) {
+        private async Task GuardarEmpleado(Empleado empleado)
+        {
             HttpResponseMessage response = await _httpClient.PostAsJsonAsync<Empleado>("api/Empleado/PostNewEmpleado", empleado);
             response.EnsureSuccessStatusCode();
 
@@ -82,6 +83,27 @@ namespace GestorEmpleadosWinForm
         private void Form1_Load(object sender, EventArgs e)
         {
             LoadDataEmpleadosOnDataGrid();
+        }
+
+        private void botonEliminar_Click(object sender, EventArgs e)
+        {
+            int dniEliminar = Convert.ToInt32(textBoxDNIEliminar.Text);
+            EliminarEmpleadoPorDNI(dniEliminar);
+        }
+
+        private async Task EliminarEmpleadoPorDNI(int dni)
+        {
+            HttpResponseMessage response = await _httpClient.DeleteAsync($"/api/Empleado/DeleteEmpleado/{dni}");
+            if (response.IsSuccessStatusCode)
+            {
+                MessageBox.Show("Se elimino el empleado con exito");
+                dataGridEmpleados.Rows.Clear();
+                await LoadDataEmpleadosOnDataGrid();
+            }
+            else
+            {
+                MessageBox.Show("No se pudo eliminar");
+            }
         }
     }
 }

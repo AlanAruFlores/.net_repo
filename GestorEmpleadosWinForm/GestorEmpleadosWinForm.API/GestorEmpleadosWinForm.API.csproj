@@ -12,7 +12,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GestorEmpleadosWinForm.Entidad\GestorEmpleadosWinForm.Entidad.csproj" />
-    <ProjectReference Include="..\GestorEmpleadosWinForm.Servicio\GestorEmpleadosWinForm.Servicio.csproj" />
+	 <ProjectReference Include="..\GestorEmpleadosWinForm.Servicio\GestorEmpleadosWinForm.Servicio.csproj" />
+
   </ItemGroup>
 
 </Project>

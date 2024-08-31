@@ -5,6 +5,7 @@ namespace GestorEmpleadosWinForm.Servicio
     public interface IEmpleadoService
     {
         void Guardar(Empleado empleado);
+        bool Eliminar(int dni);
         List<Empleado> GetEmpleados();
     }
 
@@ -26,6 +27,21 @@ namespace GestorEmpleadosWinForm.Servicio
         public void Guardar(Empleado empleado)
         {
             dataEmpleados.Add(empleado);
+        }
+
+        public bool Eliminar(int id)
+        {
+            Empleado em = GetEmpleadoID(id);
+            if (em == null)
+                return false;
+
+            dataEmpleados.Remove(em);
+            return true;
+        }
+
+        public Empleado GetEmpleadoID(int id)
+        {
+            return dataEmpleados.Find(em => em.DNI == id);
         }
     }
 }

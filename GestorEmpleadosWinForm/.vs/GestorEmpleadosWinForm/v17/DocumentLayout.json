@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|solutionrelative:gestorempleadoswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|solutionrelative:gestorempleadoswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5189FA2-F0ED-4260-B7D7-28B116482C9A}|GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform.api\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5189FA2-F0ED-4260-B7D7-28B116482C9A}|GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.csproj|solutionrelative:gestorempleadoswinform.api\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|solutionrelative:gestorempleadoswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5189FA2-F0ED-4260-B7D7-28B116482C9A}|GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B5189FA2-F0ED-4260-B7D7-28B116482C9A}|GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.csproj|solutionrelative:gestorempleadoswinform.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D114231A-93D6-4BDA-B7E8-3423CC7B54A6}|GestorEmpleadosWinForm\\GestorEmpleadosWinForm.csproj|solutionrelative:gestorempleadoswinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4751D64E-359E-4E10-8785-1BD77A89D89A}|GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform.servicio\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4751D64E-359E-4E10-8785-1BD77A89D89A}|GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj|solutionrelative:gestorempleadoswinform.servicio\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5189FA2-F0ED-4260-B7D7-28B116482C9A}|GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform.api\\gestorempleadoswinform.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B5189FA2-F0ED-4260-B7D7-28B116482C9A}|GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.csproj|solutionrelative:gestorempleadoswinform.api\\gestorempleadoswinform.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4751D64E-359E-4E10-8785-1BD77A89D89A}|GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj|c:\\users\\alan\\source\\repos\\gestorempleadoswinform\\gestorempleadoswinform.servicio\\gestorempleadoswinform.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4751D64E-359E-4E10-8785-1BD77A89D89A}|GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj|solutionrelative:gestorempleadoswinform.servicio\\gestorempleadoswinform.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +52,7 @@
               "RelativeDocumentMoniker": "GestorEmpleadosWinForm\\Form1.cs",
               "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm\\Form1.cs",
               "RelativeToolTip": "GestorEmpleadosWinForm\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA2wF8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T02:04:31.281Z",
               "IsPinned": true,
@@ -45,27 +61,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmpleadoController.cs",
-              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
-              "RelativeDocumentMoniker": "GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
-              "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
-              "RelativeToolTip": "GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:32:05.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm\\Form1.cs",
               "RelativeDocumentMoniker": "GestorEmpleadosWinForm\\Form1.cs",
               "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "GestorEmpleadosWinForm\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:20:31.369Z",
+              "WhenOpened": "2024-08-31T15:09:25.812Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GestorEmpleadosWinForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm\\Form1.Designer.cs",
+              "RelativeToolTip": "GestorEmpleadosWinForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAYwCUBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:08:17.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "GestorEmpleadosWinForm.API\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T02:32:05.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,6 +107,45 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-25T02:06:27.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.Servicio\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "GestorEmpleadosWinForm.Servicio\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.Servicio\\EmpleadoService.cs",
+              "RelativeToolTip": "GestorEmpleadosWinForm.Servicio\\EmpleadoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:29:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestorEmpleadosWinForm.API.http",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.http",
+              "RelativeDocumentMoniker": "GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.http",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.http",
+              "RelativeToolTip": "GestorEmpleadosWinForm.API\\GestorEmpleadosWinForm.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-31T12:59:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestorEmpleadosWinForm.Servicio.csproj",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj",
+              "RelativeDocumentMoniker": "GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\GestorEmpleadosWinForm\\GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj",
+              "RelativeToolTip": "GestorEmpleadosWinForm.Servicio\\GestorEmpleadosWinForm.Servicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T02:29:23.679Z",
               "EditorCaption": ""
             }
           ]

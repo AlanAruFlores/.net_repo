@@ -28,5 +28,14 @@ namespace GestorEmpleadosWinForm.API.Controllers
             return StatusCode(StatusCodes.Status201Created);
         }
 
+
+        [HttpDelete("DeleteEmpleado/{id}")]
+        public IActionResult DeleteEmpleado(int id) {
+            bool result = this._empleadoService.Eliminar(id);
+            if(!result)
+                return StatusCode(StatusCodes.Status400BadRequest);
+
+            return StatusCode(StatusCodes.Status200OK);
+        }
     }
 }

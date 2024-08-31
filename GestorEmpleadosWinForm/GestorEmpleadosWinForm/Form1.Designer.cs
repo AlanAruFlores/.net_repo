@@ -50,6 +50,9 @@
             label7 = new Label();
             panel2 = new Panel();
             panel3 = new Panel();
+            textBoxDNIEliminar = new TextBox();
+            label8 = new Label();
+            botonEliminar = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridEmpleados).BeginInit();
             SuspendLayout();
@@ -254,11 +257,48 @@
             panel3.Size = new Size(45, 39);
             panel3.TabIndex = 17;
             // 
+            // textBoxDNIEliminar
+            // 
+            textBoxDNIEliminar.BackColor = SystemColors.ButtonFace;
+            textBoxDNIEliminar.Location = new Point(316, 403);
+            textBoxDNIEliminar.Multiline = true;
+            textBoxDNIEliminar.Name = "textBoxDNIEliminar";
+            textBoxDNIEliminar.Size = new Size(130, 29);
+            textBoxDNIEliminar.TabIndex = 18;
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Segoe UI Semibold", 10F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label8.ForeColor = SystemColors.HotTrack;
+            label8.Location = new Point(316, 381);
+            label8.Name = "label8";
+            label8.Size = new Size(100, 19);
+            label8.TabIndex = 19;
+            label8.Text = "DNI a eliminar";
+            // 
+            // botonEliminar
+            // 
+            botonEliminar.BackColor = SystemColors.MenuHighlight;
+            botonEliminar.FlatAppearance.BorderSize = 0;
+            botonEliminar.FlatStyle = FlatStyle.Flat;
+            botonEliminar.ForeColor = SystemColors.Control;
+            botonEliminar.Location = new Point(461, 404);
+            botonEliminar.Name = "botonEliminar";
+            botonEliminar.Size = new Size(100, 28);
+            botonEliminar.TabIndex = 20;
+            botonEliminar.Text = "Eliminar";
+            botonEliminar.UseVisualStyleBackColor = false;
+            botonEliminar.Click += botonEliminar_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(botonEliminar);
+            Controls.Add(label8);
+            Controls.Add(textBoxDNIEliminar);
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(label7);
@@ -308,5 +348,8 @@
         private Label label7;
         private Panel panel2;
         private Panel panel3;
+        private TextBox textBoxDNIEliminar;
+        private Label label8;
+        private Button botonEliminar;
     }
 }
