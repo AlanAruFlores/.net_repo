@@ -1,0 +1,15 @@
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\bin\Debug\net8.0\MVCApplication.Logica.deps.json
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\bin\Debug\net8.0\MVCApplication.Logica.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\bin\Debug\net8.0\MVCApplication.Logica.pdb
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\bin\Debug\net8.0\MVCApplication.Entidad.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\bin\Debug\net8.0\MVCApplication.Entidad.pdb
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCAppli.A5157779.Up2Date
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\refint\MVCApplication.Logica.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\MVCApplication.Logica.pdb
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Logica\obj\Debug\net8.0\ref\MVCApplication.Logica.dll

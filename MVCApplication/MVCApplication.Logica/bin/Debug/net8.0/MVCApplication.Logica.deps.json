@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MVCApplication.Logica/1.0.0": {
+        "dependencies": {
+          "MVCApplication.Entidad": "1.0.0"
+        },
+        "runtime": {
+          "MVCApplication.Logica.dll": {}
+        }
+      },
+      "MVCApplication.Entidad/1.0.0": {
+        "runtime": {
+          "MVCApplication.Entidad.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVCApplication.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVCApplication.Entidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

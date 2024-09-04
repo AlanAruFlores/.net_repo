@@ -1,0 +1,13 @@
+﻿@model MVCApplication.Entidad.Regalo
+@{
+}
+
+<form method="post">
+    <label>Descripcion</label>
+    <input type="text" asp-for="Descripcion"/>
+
+    <label>Precio</label>
+    <input type="number" asp-for="Precio" />
+
+    <input type="submit" value="Guarda"/>
+</form>

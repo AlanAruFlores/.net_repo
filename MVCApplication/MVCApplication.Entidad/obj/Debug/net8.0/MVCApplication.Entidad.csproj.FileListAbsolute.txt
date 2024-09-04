@@ -1,0 +1,11 @@
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\bin\Debug\net8.0\MVCApplication.Entidad.deps.json
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\bin\Debug\net8.0\MVCApplication.Entidad.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\bin\Debug\net8.0\MVCApplication.Entidad.pdb
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\MVCApplication.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\MVCApplication.Entidad.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\MVCApplication.Entidad.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\MVCApplication.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\MVCApplication.Entidad.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\refint\MVCApplication.Entidad.dll
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\MVCApplication.Entidad.pdb
+C:\Users\Alan\source\repos\MVCApplication\MVCApplication.Entidad\obj\Debug\net8.0\ref\MVCApplication.Entidad.dll

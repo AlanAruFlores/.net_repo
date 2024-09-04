@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E91A913C-9D25-4C69-9D29-826E16956270}|MVCApplication.Entidad\\MVCApplication.Entidad.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication.entidad\\regalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E91A913C-9D25-4C69-9D29-826E16956270}|MVCApplication.Entidad\\MVCApplication.Entidad.csproj|solutionrelative:mvcapplication.entidad\\regalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication\\controllers\\regalocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\regalocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication\\views\\regalo\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\regalo\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication\\views\\regalo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\regalo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CBF9B6-402B-4B5B-B18B-293990910ACC}|MVCApplication.Logica\\MVCApplication.Logica.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication.logica\\regalologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CBF9B6-402B-4B5B-B18B-293990910ACC}|MVCApplication.Logica\\MVCApplication.Logica.csproj|solutionrelative:mvcapplication.logica\\regalologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|c:\\users\\alan\\source\\repos\\mvcapplication\\mvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B96AA9-6395-49B6-92E7-D6C9314CB26C}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Views\\Regalo\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Regalo\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Views\\Regalo\\Agregar.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Regalo\\Agregar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T13:36:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Program.cs",
+              "RelativeToolTip": "MVCApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:58:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegaloLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication.Logica\\RegaloLogica.cs",
+              "RelativeDocumentMoniker": "MVCApplication.Logica\\RegaloLogica.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication.Logica\\RegaloLogica.cs",
+              "RelativeToolTip": "MVCApplication.Logica\\RegaloLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:24:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Regalo.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication.Entidad\\Regalo.cs",
+              "RelativeDocumentMoniker": "MVCApplication.Entidad\\Regalo.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication.Entidad\\Regalo.cs",
+              "RelativeToolTip": "MVCApplication.Entidad\\Regalo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:21:45.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Views\\Regalo\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Regalo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Views\\Regalo\\Index.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Regalo\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T12:20:42.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegaloController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Controllers\\RegaloController.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Controllers\\RegaloController.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Controllers\\RegaloController.cs",
+              "RelativeToolTip": "MVCApplication\\Controllers\\RegaloController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:20:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\MVCApplication\\MVCApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:15:10.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

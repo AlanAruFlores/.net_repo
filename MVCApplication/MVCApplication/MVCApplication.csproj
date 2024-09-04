@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\dulce.jpg" />
+    <None Include="wwwroot\images\juego.jpg" />
+    <None Include="wwwroot\images\juguete.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVCApplication.Logica\MVCApplication.Logica.csproj" />
+  </ItemGroup>
+
+</Project>
