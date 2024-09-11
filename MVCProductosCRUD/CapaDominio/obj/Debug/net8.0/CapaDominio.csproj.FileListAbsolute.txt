@@ -1,0 +1,23 @@
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\bin\Debug\net8.0\CapaDominio.deps.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\bin\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\bin\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\refint\CapaDominio.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\ref\CapaDominio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\bin\Debug\net8.0\CapaDominio.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\bin\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\bin\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\refint\CapaDominio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDominio\obj\Debug\net8.0\ref\CapaDominio.dll

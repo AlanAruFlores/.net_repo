@@ -1,0 +1,29 @@
+﻿@model List<CapaDominio.Producto>
+
+
+<div class="text-center py-4 my-4">
+    <h1 class="fs-3 fw-light mb-4">CRUD - Productos</h1>
+ 
+    <table class="table table-striped mt-4">
+        <thead class="bg-danger text-white">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Producto</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Stock</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach(var item in Model){
+                <tr>
+                    <th scope="row">@item.ID</th>
+                    <td>@item.Descripcion</td>
+                    <td>$@item.Precio</td>
+                    <td>@item.Stock</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

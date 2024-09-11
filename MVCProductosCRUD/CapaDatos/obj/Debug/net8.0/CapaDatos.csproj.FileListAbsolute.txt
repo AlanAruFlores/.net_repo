@@ -1,0 +1,31 @@
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\bin\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

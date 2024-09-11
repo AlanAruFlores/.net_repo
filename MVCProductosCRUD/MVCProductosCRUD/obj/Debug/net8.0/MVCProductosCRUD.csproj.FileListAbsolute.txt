@@ -1,0 +1,89 @@
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.staticwebassets.runtime.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.exe
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.deps.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.runtimeconfig.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.RazorAssemblyInfo.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.RazorAssemblyInfo.cs
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.MVCProductosCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCProductosCRUD.props
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCProductosCRUD.props
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCProductosCRUD.props
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\scopedcss\bundle\MVCProductosCRUD.styles.css
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\scopedcss\projectbundle\MVCProductosCRUD.bundle.scp.css
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\refint\MVCProductosCRUD.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.genruntimeconfig.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\ref\MVCProductosCRUD.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProdu.C63B7A2D.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\appsettings.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.staticwebassets.runtime.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.exe
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.runtimeconfig.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\MVCProductosCRUD.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDominio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\bin\Debug\net8.0\CapaDominio.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.RazorAssemblyInfo.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.RazorAssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.MVCProductosCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCProductosCRUD.props
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCProductosCRUD.props
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCProductosCRUD.props
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\scopedcss\bundle\MVCProductosCRUD.styles.css
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\scopedcss\projectbundle\MVCProductosCRUD.bundle.scp.css
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProdu.C63B7A2D.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\refint\MVCProductosCRUD.dll
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\MVCProductosCRUD.genruntimeconfig.cache
+C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD\obj\Debug\net8.0\ref\MVCProductosCRUD.dll
