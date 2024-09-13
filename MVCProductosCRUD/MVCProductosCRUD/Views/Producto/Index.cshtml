@@ -2,9 +2,12 @@
 
 
 <div class="text-center py-4 my-4">
-    <h1 class="fs-3 fw-light mb-4">CRUD - Productos</h1>
  
     <table class="table table-striped mt-4">
+        <div class="d-flex flex-row justify-content-between">
+            <h1 class="fs-3 fw-light mb-4">CRUD - Productos</h1>
+            <a class="btn rounded-circle btn-success text-white fs-bold btn-sm" asp-controller="Producto" asp-action="Guardar" style="width:50px; height:50px;">+</a>
+        </div>
         <thead class="bg-danger text-white">
             <tr>
                 <th scope="col">#</th>

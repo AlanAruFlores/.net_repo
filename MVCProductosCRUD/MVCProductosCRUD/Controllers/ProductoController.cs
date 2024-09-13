@@ -14,13 +14,31 @@ namespace MVCProductosCRUD.Controllers
             this._productoService = productoService;
         }
 
+
+        [HttpGet]
         public IActionResult Index()
         {
             List<Producto> productos = _productoService.ObtenerLosProductos();
-            Console.WriteLine("Productos: "+productos.Count());
             return View(productos);
         }
 
+        [HttpGet]
+        public IActionResult Guardar() { 
+            return View();
+        }
+
+
+
+        [HttpPost]
+        public IActionResult GuardarNuevo(Producto producto)
+        {
+            if (ModelState.IsValid) {
+                _productoService.CrearProducto(producto);
+                return RedirectToAction("Index");
+            }
+
+            return View("Guardar",producto);
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
