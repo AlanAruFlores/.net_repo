@@ -41,6 +41,13 @@ namespace MVCProductosCRUD.Controllers
         }
 
 
+        [HttpGet]
+        public IActionResult Eliminar (int id)
+        {
+            _productoService.EliminarProductoPorId(id);
+            return RedirectToAction("Index");
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

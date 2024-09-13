@@ -11,6 +11,8 @@ namespace CapaDatos
         const string GET_ALL_QUERY = "select id,descripcion,precio,stock from producto;";
         const string INSERT_QUERY = "insert into producto (descripcion,precio,stock) values(@descripcion, @precio, @stock)";
 
+        const string DELETE_QUERY = "delete producto where id = @id";
+
         public ProductoDAO() {
             this.conn = new Conexion();
         }
@@ -76,6 +78,28 @@ namespace CapaDatos
             {
                 Console.WriteLine(ex.Message);  
             }
+        }
+
+        public void EliminarProductoPorId(int id)
+        {
+            try
+            {
+                using (SqlConnection connection = conn.GetConnection())
+                {
+                    SqlCommand command = new SqlCommand(DELETE_QUERY, connection);
+                    command.CommandType = CommandType.Text;
+                    command.Parameters.AddWithValue("@id", id);
+
+                    conn.AbrirConexion(connection);
+                    command.ExecuteNonQuery();
+
+                    conn.CerrarConexion(connection);
+                }
+            }catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            
         }
     }
 }
