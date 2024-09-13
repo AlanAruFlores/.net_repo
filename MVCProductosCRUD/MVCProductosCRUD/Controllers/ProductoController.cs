@@ -48,6 +48,26 @@ namespace MVCProductosCRUD.Controllers
             return RedirectToAction("Index");
         }
 
+
+        [HttpGet]
+        public IActionResult Actualizar(int id)
+        {
+            Producto producto = _productoService.ObtenerProductoId(id);
+            return View("Actualizar", producto);
+        }
+
+        [HttpPost]
+        public IActionResult ActualizarProducto(Producto producto)
+        {
+
+            if (ModelState.IsValid)
+            {
+                _productoService.ActualizarProducto(producto);
+                return RedirectToAction("Index");
+            }
+            return View("Actualizar", producto);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

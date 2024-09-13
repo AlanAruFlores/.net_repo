@@ -11,6 +11,9 @@ namespace CapaNegocio
         void CrearProducto(Producto producto);
 
         void EliminarProductoPorId(int id);
+        Producto ObtenerProductoId(int id);
+
+        void ActualizarProducto(Producto producto);
     }
 
     public class ProductoService : IProductoService
@@ -35,6 +38,16 @@ namespace CapaNegocio
         public void EliminarProductoPorId(int id)
         {
             dao.EliminarProductoPorId(id);
+        }
+
+        public Producto ObtenerProductoId(int id)
+        {
+            return dao.GetProductoPorId(id);
+        }
+
+        public void ActualizarProducto(Producto producto)
+        {
+            dao.ActualizarProducto(producto);
         }
     }
 }

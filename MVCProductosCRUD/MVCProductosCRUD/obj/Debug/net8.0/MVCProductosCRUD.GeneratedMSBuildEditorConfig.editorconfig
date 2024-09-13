@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alan\Desktop\.NET Projects\MVCProductosCRUD\MVCProductosCRUD
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alan/Desktop/.NET Projects/MVCProductosCRUD/MVCProductosCRUD/Views/Producto/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQWN0dWFsaXphci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alan/Desktop/.NET Projects/MVCProductosCRUD/MVCProductosCRUD/Views/Producto/Guardar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cR3VhcmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
