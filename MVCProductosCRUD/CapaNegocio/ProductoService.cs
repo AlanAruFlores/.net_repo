@@ -24,6 +24,10 @@ namespace CapaNegocio
         {
             this.dao = new ProductoDAO();
         }
+        public ProductoService(ProductoDAO dao)
+        {
+            this.dao = dao;
+        }
 
         public List<Producto> ObtenerLosProductos()
         {

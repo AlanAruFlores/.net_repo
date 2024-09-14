@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapaDominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7bd574fdf1dbbb4dd2a75ca13414423ff3a9c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62d42b6a9bad72448cb5231a709cec36dc6b379")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapaDominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapaDominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
