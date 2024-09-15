@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\bin\Debug\net8.0\MVC-POO.Logica.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\bin\Debug\net8.0\MVC-POO.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\bin\Debug\net8.0\MVC-POO.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\bin\Debug\net8.0\MVC-POO.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\bin\Debug\net8.0\MVC-POO.Entidades.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO..E698B004.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\refint\MVC-POO.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\MVC-POO.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-POO\MVC-POO.Logica\obj\Debug\net8.0\ref\MVC-POO.Logica.dll

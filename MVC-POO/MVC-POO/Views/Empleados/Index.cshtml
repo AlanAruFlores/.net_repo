@@ -1,0 +1,65 @@
+﻿@model MVC_POO.Models.EmpleadosModelView;
+
+<h1>Empleados</h1>
+
+
+<a asp-action="AgregarEmpleadoPasante">Crear nuevo</a>
+
+<table>
+    <thead>
+        <th>Nombre Completo</th>
+        
+        <th>SueldoBase</th>
+
+         <th>Antiguedad</th>
+
+         <th>Hs Extras</th>
+    </thead>
+    <tbody>
+        @foreach(var empleado in Model.Empleados)
+        {
+            <!--Mostramos los atributos de cada empleado en la lista-->
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => empleado.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empleado.SueldoBase)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empleado.Antiguedad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empleado.HorasExtras)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h1>Contratados</h1>
+
+<table>
+
+    <thead>
+        <th>Valor x Hora</th>
+
+        <th>Horas trabajadas</th>
+    </thead>
+    <tbody>
+        @foreach (var empleado in Model.Contratados)
+        {
+            <!--Mostramos los atributos de cada empleado en la lista-->
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => empleado.ValorHora)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => empleado.HorasTrabajadas)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Sueldo a liquidar: @ViewBag.SueldoALiquidar</h2>
