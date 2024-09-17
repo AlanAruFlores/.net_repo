@@ -1,30 +1,44 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVC_LayoutPartialView.Entidades;
+using MVC_LayoutPartialView.Logica;
 using MVC_LayoutPartialView.Models;
 
 namespace MVC_LayoutPartialView.Controllers
 {
     public class VentajasDesventajasController : Controller
     {
+        private IComentarioService _comentarioService;
+        private ILogger _logger;
+
+
+        public VentajasDesventajasController (IComentarioService comentarioService, ILogger<VentajasDesventajasController> logger)
+        {
+            this._comentarioService = comentarioService;
+            this._logger  = logger; 
+        }
+
         public IActionResult PanelesSolares()
         {
-            var comentarios = new List<ComentarioModelView> {
-                new ComentarioModelView{ 
-                    AvatarUrl = "https://avatarfiles.alphacoders.com/366/366077.png",
-                    ProfileUrl = "https://twitter.com/usuario1",
-                    CommentText = "Este es el primer comentario",
-                    ViewMoreLink = "https://example.com/ver-mas-1",
-                },
-                new ComentarioModelView{
-                    AvatarUrl = "https://i.pinimg.com/736x/68/84/10/688410c12edecf385116ef28b769e257.jpg",
-                    ProfileUrl = "https://twitter.com/usuario2",
-                    CommentText = "Segundo comentario ¡Muy Interesante!",
-                    ViewMoreLink = "https://example.com/ver-mas-2",
-                }
-
-            };
-
-            ViewBag.Comentarios = comentarios;
+            _logger.LogWarning("Cantidad Registros: "+ComentarioModelView.GetLista(_comentarioService.ObtenerComentarios()).Count);
+            ViewBag.Comentarios = ComentarioModelView.GetLista(_comentarioService.ObtenerComentarios());
+          
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult PanelSolaresComentar(ComentarioModelView mv)
+        {
+
+            if (!ModelState.IsValid)
+            {
+                return View("PanelesSolares", mv);
+            }
+
+            _comentarioService.AgregarComentario(new Comentario{
+                ComentarioText = mv.CommentText
+            });
+            
+            return RedirectToAction("PanelesSolares");
         }
     }
 }

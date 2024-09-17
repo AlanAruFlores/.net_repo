@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "MVC-LayoutPartialView.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MVC-LayoutPartialView.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC-LayoutPartialView.Entidades.dll": {}
+        }
+      },
+      "MVC-LayoutPartialView.Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MVC-LayoutPartialView.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MVC-LayoutPartialView.Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC-LayoutPartialView.Logica.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MVC-LayoutPartialView.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../MVC-LayoutPartialView.Entidades/MVC-LayoutPartialView.Entidades.csproj",
+      "msbuildProject": "../MVC-LayoutPartialView.Entidades/MVC-LayoutPartialView.Entidades.csproj"
+    },
+    "MVC-LayoutPartialView.Logica/1.0.0": {
+      "type": "project",
+      "path": "../MVC-LayoutPartialView.Logica/MVC-LayoutPartialView.Logica.csproj",
+      "msbuildProject": "../MVC-LayoutPartialView.Logica/MVC-LayoutPartialView.Logica.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "MVC-LayoutPartialView.Entidades >= 1.0.0",
+      "MVC-LayoutPartialView.Logica >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alan\\.nuget\\packages\\": {},
@@ -39,7 +77,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Entidades\\MVC-LayoutPartialView.Entidades.csproj": {
+              "projectPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Entidades\\MVC-LayoutPartialView.Entidades.csproj"
+            },
+            "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Logica\\MVC-LayoutPartialView.Logica.csproj": {
+              "projectPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Logica\\MVC-LayoutPartialView.Logica.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,8 +1,10 @@
+using MVC_LayoutPartialView.Logica;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddSingleton<IComentarioService, ComentarioService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

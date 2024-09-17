@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC-LayoutPartialView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dcefbd6cff59f677d4892112ff6eba5dc9746f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9422e1ddcab43913686238ec6bae381dc802f165")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC-LayoutPartialView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC-LayoutPartialView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

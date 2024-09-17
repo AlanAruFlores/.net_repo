@@ -7,4 +7,9 @@
     <RootNamespace>MVC_LayoutPartialView</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MVC-LayoutPartialView.Entidades\MVC-LayoutPartialView.Entidades.csproj" />
+    <ProjectReference Include="..\MVC-LayoutPartialView.Logica\MVC-LayoutPartialView.Logica.csproj" />
+  </ItemGroup>
+
 </Project>

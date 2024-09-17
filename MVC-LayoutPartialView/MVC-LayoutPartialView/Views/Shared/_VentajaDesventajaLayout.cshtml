@@ -28,3 +28,11 @@
         <partial name="_ComentarioUsuarioPartial.cshtml" model="comentarioModel" />
     }
 }
+
+@await RenderSectionAsync("ComentarFormulario", true);
+
+
+@*Evitamos perder la referencia de los scripts si uso este layout*@
+@section Scripts{
+    @await RenderSectionAsync("Scripts", required: false)
+}
