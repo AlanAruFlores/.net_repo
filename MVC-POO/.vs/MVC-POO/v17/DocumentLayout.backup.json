@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo\\views\\empleados\\agregarempleadopasante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|solutionrelative:mvc-poo\\views\\empleados\\agregarempleadopasante.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|solutionrelative:mvc-poo\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|solutionrelative:mvc-poo\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo\\models\\empleadosmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|solutionrelative:mvc-poo\\models\\empleadosmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.entidades\\contratado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|solutionrelative:mvc-poo.entidades\\contratado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|solutionrelative:mvc-poo.entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.entidades\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|solutionrelative:mvc-poo.entidades\\pasante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|solutionrelative:mvc-poo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508B9765-E33C-4829-94BB-FB1F1FA98A3F}|MVC-POO.Logica\\MVC-POO.Logica.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.logica\\liquidadorsueldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508B9765-E33C-4829-94BB-FB1F1FA98A3F}|MVC-POO.Logica\\MVC-POO.Logica.csproj|solutionrelative:mvc-poo.logica\\liquidadorsueldos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508B9765-E33C-4829-94BB-FB1F1FA98A3F}|MVC-POO.Logica\\MVC-POO.Logica.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.logica\\contractorslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508B9765-E33C-4829-94BB-FB1F1FA98A3F}|MVC-POO.Logica\\MVC-POO.Logica.csproj|solutionrelative:mvc-poo.logica\\contractorslogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD857BEE-45D0-4EA7-8B6F-D38F93DC5E2F}|MVC-POO.Test\\MVC-POO.Test.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD857BEE-45D0-4EA7-8B6F-D38F93DC5E2F}|MVC-POO.Test\\MVC-POO.Test.csproj|solutionrelative:mvc-poo.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183D1672-1E91-4185-93A3-D389614216F1}|MVC-POO\\MVC-POO.csproj|solutionrelative:mvc-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508B9765-E33C-4829-94BB-FB1F1FA98A3F}|MVC-POO.Logica\\MVC-POO.Logica.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.logica\\empleadologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508B9765-E33C-4829-94BB-FB1F1FA98A3F}|MVC-POO.Logica\\MVC-POO.Logica.csproj|solutionrelative:mvc-poo.logica\\empleadologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-poo\\mvc-poo.entidades\\plantapermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E4051F-DEB4-4F4E-B020-25043E56F9B3}|MVC-POO.Entidades\\MVC-POO.Entidades.csproj|solutionrelative:mvc-poo.entidades\\plantapermanente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadosModelView.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Models\\EmpleadosModelView.cs",
+              "RelativeDocumentMoniker": "MVC-POO\\Models\\EmpleadosModelView.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Models\\EmpleadosModelView.cs",
+              "RelativeToolTip": "MVC-POO\\Models\\EmpleadosModelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:51:06.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarEmpleadoPasante.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Views\\Empleados\\AgregarEmpleadoPasante.cshtml",
+              "RelativeDocumentMoniker": "MVC-POO\\Views\\Empleados\\AgregarEmpleadoPasante.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Views\\Empleados\\AgregarEmpleadoPasante.cshtml",
+              "RelativeToolTip": "MVC-POO\\Views\\Empleados\\AgregarEmpleadoPasante.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T12:44:57.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Views\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-POO\\Views\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Views\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "MVC-POO\\Views\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T02:02:21.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "MVC-POO\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "MVC-POO\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:51:41.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pasante.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\Pasante.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Entidades\\Pasante.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\Pasante.cs",
+              "RelativeToolTip": "MVC-POO.Entidades\\Pasante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:09:24.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contratado.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\Contratado.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Entidades\\Contratado.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\Contratado.cs",
+              "RelativeToolTip": "MVC-POO.Entidades\\Contratado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:13:37.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC-POO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC-POO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:44:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\Empleado.cs",
+              "RelativeToolTip": "MVC-POO.Entidades\\Empleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:07:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContractorsLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Logica\\ContractorsLogica.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Logica\\ContractorsLogica.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Logica\\ContractorsLogica.cs",
+              "RelativeToolTip": "MVC-POO.Logica\\ContractorsLogica.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T02:16:05.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Logica\\EmpleadoLogica.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Logica\\EmpleadoLogica.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Logica\\EmpleadoLogica.cs",
+              "RelativeToolTip": "MVC-POO.Logica\\EmpleadoLogica.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA6wAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:56:29.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LiquidadorSueldos.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Logica\\LiquidadorSueldos.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Logica\\LiquidadorSueldos.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Logica\\LiquidadorSueldos.cs",
+              "RelativeToolTip": "MVC-POO.Logica\\LiquidadorSueldos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:25:23.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO\\Program.cs",
+              "RelativeToolTip": "MVC-POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:36:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Test\\UnitTest1.cs",
+              "RelativeToolTip": "MVC-POO.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:27:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlantaPermanente.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\PlantaPermanente.cs",
+              "RelativeDocumentMoniker": "MVC-POO.Entidades\\PlantaPermanente.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-POO\\MVC-POO.Entidades\\PlantaPermanente.cs",
+              "RelativeToolTip": "MVC-POO.Entidades\\PlantaPermanente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:14:57.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

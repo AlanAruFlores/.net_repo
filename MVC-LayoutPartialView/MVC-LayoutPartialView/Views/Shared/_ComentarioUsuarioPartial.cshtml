@@ -1,0 +1,10 @@
+﻿@model MVC_LayoutPartialView.Models.ComentarioModelView;
+
+<div class="tweet-comment">
+    <img src="@Model.AvatarUrl" alt="Avatar" class="avatar" height="50"/>
+    <div class="comment-content">
+        <a href="@Model.ProfileUrl">@Model.ProfileUrl</a>
+        <p>@Model.CommentText</p>
+        <a href="@Model.ViewMoreLink">Ver mas</a>
+    </div>
+</div>

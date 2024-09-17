@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["titulo"] = "Columna Layout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@RenderBody(); <!--La vista que tenga este layout, se renderizara aqui-->
+
+
+<div class="row">
+    <div class="col">
+        <h1>Ventajas</h1>
+        @await RenderSectionAsync("Ventajas", true); <!--Se ejecuta de forma asincrona sin bloquear el hilo-->
+    </div>
+    <div class="col">
+        <h1>Desventajas</h1>
+        @await RenderSectionAsync("Desventajas", true);
+    </div>
+</div>
+
+@if(ViewBag.Comentarios != null)
+{
+
+    @*Renderizamos los comentarios de la lista usando un partial view (parte de la vista reutilizada)*@
+   
+    <h3>Comentarios</h3>
+    @foreach(ComentarioModelView comentarioModel in ViewBag.Comentarios)
+    {
+        <partial name="_ComentarioUsuarioPartial.cshtml" model="comentarioModel" />
+    }
+}
