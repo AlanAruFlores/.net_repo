@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\bin\Debug\net8.0\MVC-LayoutPartialView.Logica.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\bin\Debug\net8.0\MVC-LayoutPartialView.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\bin\Debug\net8.0\MVC-LayoutPartialView.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\bin\Debug\net8.0\MVC-LayoutPartialView.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\bin\Debug\net8.0\MVC-LayoutPartialView.Entidades.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-Layo.485D1905.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\refint\MVC-LayoutPartialView.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\MVC-LayoutPartialView.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-LayoutPartialView\MVC-LayoutPartialView.Logica\obj\Debug\net8.0\ref\MVC-LayoutPartialView.Logica.dll

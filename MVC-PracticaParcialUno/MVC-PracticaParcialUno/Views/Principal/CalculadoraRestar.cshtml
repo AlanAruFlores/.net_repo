@@ -1,0 +1,33 @@
+﻿@model MVC_PracticaParcialUno.Models.CalculadoraViewModel
+
+<div class="d-flex justify-content-center">
+    <form asp-controller="Principal" asp-action="OperarResta" class="w-50 border-1 border box-shadow p-4 d-flex flex-column gap-2" method="post">
+        <h1 class="fw-lighter">Calculadora de restas</h1>
+        <div>
+            <div class="d-flex flex-row gap-4">
+                <label class="w-25">Numero Uno</label>
+                <input type="number" asp-for="NumeroUno" placeholder="Numero 1" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="NumeroUno"></span>
+        </div>
+
+        <div>
+            <div class="d-flex flex-row gap-4">
+                <label class="w-25">Numero Dos</label>
+                <input type="number" asp-for="NumeroDos" placeholder="Numero 2" class="form-control" />
+            </div>
+            <span class="text-danger" asp-validation-for="NumeroDos"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success text-white text-center py-2">Operar</button>
+
+        @if (ViewBag.Resultado != null)
+        {
+            <h4 class="text-success fw-bold text-center my-4">@ViewBag.Resultado</h4>
+        }
+    </form>
+
+
+</div>
+
+

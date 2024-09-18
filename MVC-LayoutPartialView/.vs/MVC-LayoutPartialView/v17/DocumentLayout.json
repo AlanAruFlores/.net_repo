@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\views\\ventajasdesventajas\\panelessolares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\views\\ventajasdesventajas\\panelessolares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\controllers\\ventajasdesventajascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\controllers\\ventajasdesventajascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9216459F-69B1-41C4-A4EE-F0826392C70A}|MVC-LayoutPartialView.Logica\\MVC-LayoutPartialView.Logica.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview.logica\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9216459F-69B1-41C4-A4EE-F0826392C70A}|MVC-LayoutPartialView.Logica\\MVC-LayoutPartialView.Logica.csproj|solutionrelative:mvc-layoutpartialview.logica\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\views\\shared\\_comentariousuariopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\views\\shared\\_comentariousuariopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\models\\comentariomodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\models\\comentariomodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\views\\shared\\_ventajadesventajalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\views\\shared\\_ventajadesventajalayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A64B53-3951-4501-991F-A9E7E10F0F55}|MVC-LayoutPartialView.Entidades\\MVC-LayoutPartialView.Entidades.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview.entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A64B53-3951-4501-991F-A9E7E10F0F55}|MVC-LayoutPartialView.Entidades\\MVC-LayoutPartialView.Entidades.csproj|solutionrelative:mvc-layoutpartialview.entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-layoutpartialview\\mvc-layoutpartialview\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25D8E69E-28F8-4781-AD6A-7D38D4DDD8F2}|MVC-LayoutPartialView\\MVC-LayoutPartialView.csproj|solutionrelative:mvc-layoutpartialview\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentajasDesventajasController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Controllers\\VentajasDesventajasController.cs",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Controllers\\VentajasDesventajasController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Controllers\\VentajasDesventajasController.cs",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Controllers\\VentajasDesventajasController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:01:13.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComentarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Logica\\ComentarioService.cs",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView.Logica\\ComentarioService.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Logica\\ComentarioService.cs",
+              "RelativeToolTip": "MVC-LayoutPartialView.Logica\\ComentarioService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:13:28.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:07:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PanelesSolares.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\VentajasDesventajas\\PanelesSolares.cshtml",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Views\\VentajasDesventajas\\PanelesSolares.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\VentajasDesventajas\\PanelesSolares.cshtml",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Views\\VentajasDesventajas\\PanelesSolares.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T02:02:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ComentarioUsuarioPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_ComentarioUsuarioPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Views\\Shared\\_ComentarioUsuarioPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_ComentarioUsuarioPartial.cshtml",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Views\\Shared\\_ComentarioUsuarioPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T02:27:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComentarioModelView.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Models\\ComentarioModelView.cs",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Models\\ComentarioModelView.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Models\\ComentarioModelView.cs",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Models\\ComentarioModelView.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:33:09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_VentajaDesventajaLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_VentajaDesventajaLayout.cshtml",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Views\\Shared\\_VentajaDesventajaLayout.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_VentajaDesventajaLayout.cshtml",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Views\\Shared\\_VentajaDesventajaLayout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T01:24:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T11:45:29.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T11:36:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Program.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Program.cs",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:15:14.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Entidades\\Comentario.cs",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView.Entidades\\Comentario.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView.Entidades\\Comentario.cs",
+              "RelativeToolTip": "MVC-LayoutPartialView.Entidades\\Comentario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:12:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC-LayoutPartialView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-LayoutPartialView\\MVC-LayoutPartialView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC-LayoutPartialView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T03:00:47.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

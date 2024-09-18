@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\principal\\calculadorasumar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\principal\\calculadorasumar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\principal\\calculadorarestar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\principal\\calculadorarestar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\principal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\principal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4984186-BDEA-49C8-B677-78671B58CBA4}|MVC-PracticaParcialUno.Services\\MVC-PracticaParcialUno.Services.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno.services\\principalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4984186-BDEA-49C8-B677-78671B58CBA4}|MVC-PracticaParcialUno.Services\\MVC-PracticaParcialUno.Services.csproj|solutionrelative:mvc-practicaparcialuno.services\\principalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-practicaparcialuno\\mvc-practicaparcialuno\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D6FD80C-EAFF-44ED-A74C-C506C08FAA90}|MVC-PracticaParcialUno\\MVC-PracticaParcialUno.csproj|solutionrelative:mvc-practicaparcialuno\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraSumar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraSumar.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraSumar.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraSumar.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraSumar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T23:11:14.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Principal\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\Principal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Principal\\Index.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\Principal\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:46:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Models\\CalculadoraViewModel.cs",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Models\\CalculadoraViewModel.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Models\\CalculadoraViewModel.cs",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Models\\CalculadoraViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:52:13.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:53:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraRestar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraRestar.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraRestar.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraRestar.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\Principal\\CalculadoraRestar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T23:11:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrincipalController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Controllers\\PrincipalController.cs",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Controllers\\PrincipalController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Controllers\\PrincipalController.cs",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Controllers\\PrincipalController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwCsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:45:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Program.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Program.cs",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:45:13.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrincipalService.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno.Services\\PrincipalService.cs",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno.Services\\PrincipalService.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno.Services\\PrincipalService.cs",
+              "RelativeToolTip": "MVC-PracticaParcialUno.Services\\PrincipalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:47:55.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T23:41:27.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:55:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:55:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVC-PracticaParcialUno\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-PracticaParcialUno\\MVC-PracticaParcialUno\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVC-PracticaParcialUno\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T22:55:56.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
