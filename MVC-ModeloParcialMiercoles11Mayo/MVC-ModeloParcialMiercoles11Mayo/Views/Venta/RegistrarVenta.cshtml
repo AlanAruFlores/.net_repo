@@ -1,0 +1,33 @@
+﻿@model MVC_ModeloParcialMiercoles11Mayo.Entidades.Venta;
+
+<div class="d-flex justify-content-center">
+
+    <form asp-controller="Venta" asp-action="RegistrarVentaPOST" class="w-50 p-4" method="post">
+        <fieldset class="border p-2">
+            <legend class="float-none w-auto fs-5 fw-semibold text-success">Ventas</legend>
+
+            <div class="d-flex flex-column gap-2">
+                <div>
+                    <label>Cliente: </label>
+                    <input type="text" asp-for="Cliente"/>
+                    <span class="text-danger" asp-validation-for="Cliente"></span>
+                </div>
+                
+                <div>
+                    <label>Cantidad Vendida: </label>
+                    <input type="text" asp-for="CantidadVendida"/>
+                    <span class="text-danger" asp-validation-for="CantidadVendida"></span>
+                </div>
+
+                <div>
+                    <label>Precio Unitario $: </label>
+                    <input type="text" asp-for="PrecioUnitario"/>
+                    <span class="text-danger" asp-validation-for="PrecioUnitario"></span>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-md btn-success mt-4 mx-auto">Guardar</button>
+        </fieldset>    
+    </form>
+
+</div>

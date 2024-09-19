@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MVC-ModeloParcialMiercoles11Mayo/1.0.0": {
+        "dependencies": {
+          "MVC-ModeloParcialMiercoles11Mayo.Entidades": "1.0.0",
+          "MVC-ModeloParcialMiercoles11Mayo.Logica": "1.0.0"
+        },
+        "runtime": {
+          "MVC-ModeloParcialMiercoles11Mayo.dll": {}
+        }
+      },
+      "MVC-ModeloParcialMiercoles11Mayo.Entidades/1.0.0": {
+        "runtime": {
+          "MVC-ModeloParcialMiercoles11Mayo.Entidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MVC-ModeloParcialMiercoles11Mayo.Logica/1.0.0": {
+        "dependencies": {
+          "MVC-ModeloParcialMiercoles11Mayo.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "MVC-ModeloParcialMiercoles11Mayo.Logica.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC-ModeloParcialMiercoles11Mayo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC-ModeloParcialMiercoles11Mayo.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC-ModeloParcialMiercoles11Mayo.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

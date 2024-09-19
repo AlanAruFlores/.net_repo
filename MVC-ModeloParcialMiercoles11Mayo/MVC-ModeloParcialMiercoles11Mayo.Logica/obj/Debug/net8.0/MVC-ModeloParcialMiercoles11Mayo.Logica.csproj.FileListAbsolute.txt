@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\bin\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\bin\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\bin\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\bin\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\bin\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Entidades.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-Mode.110650FD.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\refint\MVC-ModeloParcialMiercoles11Mayo.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\MVC-ModeloParcialMiercoles11Mayo.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-ModeloParcialMiercoles11Mayo\MVC-ModeloParcialMiercoles11Mayo.Logica\obj\Debug\net8.0\ref\MVC-ModeloParcialMiercoles11Mayo.Logica.dll

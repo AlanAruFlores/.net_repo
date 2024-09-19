@@ -1,0 +1,31 @@
+﻿@model List<VentaViewModel>
+<h1 class="fs-2">Resultados</h1>
+
+<div class="d-flex justify-content-center mt-4">
+    <table class="table table-striped">
+        <thead class="bg-success text-white text-center fw-light">
+            <tr class="fw-light">
+                <th>#IdVenta</th>
+                <th>Cliente</th>
+                <th>Cantidad Vendida</th>
+                <th>Precio Unitario ($)</th>
+                <th>Total Venta</th>
+            </tr>
+        </thead>
+        <tbody class="text-center">
+            @foreach(VentaViewModel venta in Model)
+            {
+                <tr>
+                    <td>@venta.Id</td>
+                    <td>@venta.Cliente</td>
+                    <td>@venta.CantidadVendida</td>
+                    <td>@venta.PrecioUnitario</td>
+                    <td>$@venta.TotalVenta</td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>
