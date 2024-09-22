@@ -1,0 +1,20 @@
+﻿@model MVC_GestorTareas.Entidades.Tarea
+<form asp-controller="Tarea" asp-action="AgregarPOST" class="w-50 p-4" method="post">
+    <fieldset class="border p-2">
+        <legend class="float-none w-auto fs-5 fw-semibold text-success">Agregar Tarea</legend>
+        <div class="d-flex flex-column gap-2">
+            <div>
+                <label>Titulo: </label>
+                <input type="text" asp-for="Titulo" />
+                <span class="text-danger" asp-validation-for="Titulo"></span>
+            </div>
+
+            <div>
+                <label>Descripcion: </label>
+                <input type="text" asp-for="Descripcion" />
+                <span class="text-danger" asp-validation-for="Descripcion"></span>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-md btn-success mt-4 mx-auto">Guardar</button>
+    </fieldset>
+</form>

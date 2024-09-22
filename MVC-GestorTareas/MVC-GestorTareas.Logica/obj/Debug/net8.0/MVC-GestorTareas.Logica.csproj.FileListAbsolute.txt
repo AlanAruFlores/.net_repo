@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\bin\Debug\net8.0\MVC-GestorTareas.Logica.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\bin\Debug\net8.0\MVC-GestorTareas.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\bin\Debug\net8.0\MVC-GestorTareas.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\bin\Debug\net8.0\MVC-GestorTareas.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\bin\Debug\net8.0\MVC-GestorTareas.Entidades.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-Gest.4EA1E6AD.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\refint\MVC-GestorTareas.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\MVC-GestorTareas.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Logica\obj\Debug\net8.0\ref\MVC-GestorTareas.Logica.dll

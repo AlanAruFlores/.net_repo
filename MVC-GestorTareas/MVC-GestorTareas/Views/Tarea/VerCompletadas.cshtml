@@ -1,0 +1,15 @@
+﻿@using MVC_GestorTareas.Entidades
+@model List<MVC_GestorTareas.Entidades.Tarea>
+
+<h1 class="text-center fs-2">TodoApp</h1>
+<div class="container w-75" style="margin-top:70px">
+    <div class="d-flex justify-content-between">
+        <h2 class="fs-3">Tareas Completadas</h2>
+    </div>
+    <div class="shadow-sm mt-4 mx-auto" style="background-color:white; height:auto">
+        @foreach (Tarea m in Model)
+        {
+            <partial name="_TaskPartial" model=@m />
+        }
+    </div>
+</div>

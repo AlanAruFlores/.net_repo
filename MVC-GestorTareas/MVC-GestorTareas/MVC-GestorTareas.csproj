@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>MVC_GestorTareas</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVC-GestorTareas.Entidades\MVC-GestorTareas.Entidades.csproj" />
+    <ProjectReference Include="..\MVC-GestorTareas.Logica\MVC-GestorTareas.Logica.csproj" />
+  </ItemGroup>
+
+</Project>

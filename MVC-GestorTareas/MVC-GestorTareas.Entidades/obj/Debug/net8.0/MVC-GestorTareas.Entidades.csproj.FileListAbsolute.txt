@@ -1,0 +1,12 @@
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\bin\Debug\net8.0\MVC-GestorTareas.Entidades.deps.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\bin\Debug\net8.0\MVC-GestorTareas.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\bin\Debug\net8.0\MVC-GestorTareas.Entidades.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\refint\MVC-GestorTareas.Entidades.dll
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\MVC-GestorTareas.Entidades.pdb
+C:\Users\Alan\Desktop\.NET Projects\MVC-GestorTareas\MVC-GestorTareas.Entidades\obj\Debug\net8.0\ref\MVC-GestorTareas.Entidades.dll
