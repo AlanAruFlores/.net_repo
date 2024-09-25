@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\venta\\registrarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\venta\\registrarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\venta\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\venta\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AD6C3CD-8A06-4174-A6D4-D56C480C9C2A}|MVC-ModeloParcialMiercoles11Mayo.Test\\MVC-ModeloParcialMiercoles11Mayo.Test.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo.test\\ventaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD6C3CD-8A06-4174-A6D4-D56C480C9C2A}|MVC-ModeloParcialMiercoles11Mayo.Test\\MVC-ModeloParcialMiercoles11Mayo.Test.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo.test\\ventaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\venta\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\venta\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{292A28F8-4AAF-4E5C-8753-BEFB50BC6EE2}|MVC-ModeloParcialMiercoles11Mayo.Entidades\\MVC-ModeloParcialMiercoles11Mayo.Entidades.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo.entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292A28F8-4AAF-4E5C-8753-BEFB50BC6EE2}|MVC-ModeloParcialMiercoles11Mayo.Entidades\\MVC-ModeloParcialMiercoles11Mayo.Entidades.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo.entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\venta\\registrarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\venta\\registrarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\presentacion\\bienvenido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,32 +55,12 @@
       "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\controllers\\presentacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FF88C3D-5337-4134-AA64-6A0BDB0DFFFD}|MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo.logica\\mvc-modeloparcialmiercoles11mayo.logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2FF88C3D-5337-4134-AA64-6A0BDB0DFFFD}|MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo.logica\\mvc-modeloparcialmiercoles11mayo.logica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|c:\\users\\alan\\desktop\\.net projects\\mvc-modeloparcialmiercoles11mayo\\mvc-modeloparcialmiercoles11mayo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762B0CFE-FE17-4709-A063-6332194FAE2E}|MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.csproj|solutionrelative:mvc-modeloparcialmiercoles11mayo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,167 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VentaServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:18:53.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowBwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:13:09.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Resultados.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T00:14:13.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegistrarVenta.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvwwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T00:14:01.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:41:44.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VentaService.cs",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:35:58.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bienvenido.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T00:02:04.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PresentacionController.cs",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:59:03.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Program.cs",
               "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Program.cs",
               "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Program.cs",
               "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T23:59:54.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MVC-ModeloParcialMiercoles11Mayo.Logica",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-19T00:41:46.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T23:59:48.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T23:57:11.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewImports.cshtml",
@@ -243,20 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T00:07:24.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -264,8 +121,141 @@
               "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T00:07:27.632Z",
+              "WhenOpened": "2024-09-19T00:07:27.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resultados.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\Resultados.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T00:14:13.314Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Venta\\RegistrarVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T00:14:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T23:59:48.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentaServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Test\\VentaServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:18:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bienvenido.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Presentacion\\Bienvenido.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T00:02:04.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Logica\\VentaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:35:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Entidades\\Venta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:41:44.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:13:09.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PresentacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Controllers\\PresentacionController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:59:03.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo.Logica\\MVC-ModeloParcialMiercoles11Mayo.Logica.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T00:41:46.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\MVC-ModeloParcialMiercoles11Mayo\\MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVC-ModeloParcialMiercoles11Mayo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T00:07:24.569Z"
             }
           ]
         }
