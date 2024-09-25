@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>MVC_ModeloPrimerParcialMiercoles15Mayo</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj" />
+    <ProjectReference Include="..\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj" />
+  </ItemGroup>
+
+</Project>

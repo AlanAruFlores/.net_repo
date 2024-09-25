@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_ModeloPrimerParcialMiercoles15Mayo
+build_property.RootNamespace = MVC_ModeloPrimerParcialMiercoles15Mayo
+build_property.ProjectDir = C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Barcos/Listado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29zXExpc3RhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Barcos/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29zXFJlZ2lzdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Inicio/Bienvenida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEJpZW52ZW5pZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Shared/_AduanaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZHVhbmFMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alan/source/repos/MVC-ModeloPrimerParcialMiercoles15Mayo/MVC-ModeloPrimerParcialMiercoles15Mayo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f1x3ge4gwe

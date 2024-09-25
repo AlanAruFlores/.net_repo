@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "_Layout.cshtml";
+}
+
+
+@section header{
+    <header>
+        <nav class=" bg-success text-white border-bottom box-shadow mb-3 py-3">
+            <div class="d-flex justify-content-between px-4">
+                <a asp-controller="Inicio" asp-action="Bienvenida" class="text-center fs-4 d-block text-white text-decoration-none d-block">UNLAM - Practica Parcial de Programacion Web III</a>
+                <div>
+                    <a asp-controller="Barcos" asp-action="Registrar" class="text-decoration-none text-white">Registrar Barco</a>
+                    <a asp-controller="Barcos" asp-action="Listado" class="text-decoration-none text-white">Listado Barcos</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+}
+
+@section footer{
+    <footer class="border-top footer text-muted">
+        <div class="container d-flex flex-column align-items-center pt-4 pb-0">
+            <p>Alan Aruquipa</p>
+            <p>45323639</p>
+        </div>
+    </footer>
+}
+
+@RenderBody();

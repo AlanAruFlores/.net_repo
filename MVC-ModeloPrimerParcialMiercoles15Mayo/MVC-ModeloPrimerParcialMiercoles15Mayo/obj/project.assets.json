@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll": {}
+        }
+      },
+      "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades/MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj",
+      "msbuildProject": "../MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades/MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj"
+    },
+    "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica/1.0.0": {
+      "type": "project",
+      "path": "../MVC-ModeloPrimerParcialMiercoles15Mayo.Logica/MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj",
+      "msbuildProject": "../MVC-ModeloPrimerParcialMiercoles15Mayo.Logica/MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades >= 1.0.0",
+      "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo.csproj",
+      "projectName": "MVC-ModeloPrimerParcialMiercoles15Mayo",
+      "projectPath": "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo.csproj",
+      "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj": {
+              "projectPath": "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj"
+            },
+            "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj": {
+              "projectPath": "C:\\Users\\Alan\\source\\repos\\MVC-ModeloPrimerParcialMiercoles15Mayo\\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿@model MVC_ModeloPrimerParcialMiercoles15Mayo.Entidades.Barco
+@{
+    Layout = "_AduanaLayout";
+}
+
+<form asp-controller="Barcos" asp-action="RegistrarPOST" method="post">
+
+    <div>
+        <label class="form-label">Nombre</label>
+        <input class="form-control" asp-for="Nombre"/>
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label class="form-label">Antiguedad</label>
+        <input class="form-control" asp-for="Antiguedad" />
+
+        <span asp-validation-for="Antiguedad" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label class="form-label">Tripulacion Maxima</label>
+        <input class="form-control" asp-for="TripulacionMaxima" />
+        <span asp-validation-for="TripulacionMaxima" class="text-danger"></span>
+    </div>
+
+    <input type="submit" class="btn btn-success" value="Registrar"/>
+</form>

@@ -1,0 +1,38 @@
+﻿@model List<MVC_ModeloPrimerParcialMiercoles15Mayo.Entidades.Barco>
+@{
+    Layout = "_AduanaLayout";
+}
+<table>
+    <thead>
+        <tr>
+            <th>
+                IdBarco
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Antiguedad
+            </th>
+            <th>
+                Tripulacion Maxima
+            </th>
+            <th>
+                Tasa
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var barco in Model)
+        {
+            <tr>
+                <td>@barco.IdBarco</td>
+                <td>@barco.Nombre</td>
+                <td>@barco.Antiguedad</td>
+                <td>@barco.TripulacionMaxima</td>
+                <td>@barco.Tasa</td>
+            </tr>
+        }
+    </tbody>
+</table>

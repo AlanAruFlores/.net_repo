@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MVC-ModeloPrimerParcialMiercoles15Mayo/1.0.0": {
+        "dependencies": {
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades": "1.0.0",
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica": "1.0.0"
+        },
+        "runtime": {
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.dll": {}
+        }
+      },
+      "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades/1.0.0": {
+        "runtime": {
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica/1.0.0": {
+        "dependencies": {
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC-ModeloPrimerParcialMiercoles15Mayo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC-ModeloPrimerParcialMiercoles15Mayo.Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

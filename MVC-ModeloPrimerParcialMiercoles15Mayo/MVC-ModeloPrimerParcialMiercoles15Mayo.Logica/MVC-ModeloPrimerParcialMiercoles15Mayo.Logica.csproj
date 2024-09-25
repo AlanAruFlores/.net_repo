@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>MVC_ModeloPrimerParcialMiercoles15Mayo.Logica</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

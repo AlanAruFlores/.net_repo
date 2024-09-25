@@ -1,0 +1,15 @@
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.deps.json
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.pdb
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.pdb
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-Mode.EFF05962.Up2Date
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\refint\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.pdb
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica\obj\Debug\net8.0\ref\MVC-ModeloPrimerParcialMiercoles15Mayo.Logica.dll

@@ -1,0 +1,11 @@
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.deps.json
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\bin\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.pdb
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.AssemblyInfo.cs
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\refint\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.pdb
+C:\Users\Alan\source\repos\MVC-ModeloPrimerParcialMiercoles15Mayo\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades\obj\Debug\net8.0\ref\MVC-ModeloPrimerParcialMiercoles15Mayo.Entidades.dll
