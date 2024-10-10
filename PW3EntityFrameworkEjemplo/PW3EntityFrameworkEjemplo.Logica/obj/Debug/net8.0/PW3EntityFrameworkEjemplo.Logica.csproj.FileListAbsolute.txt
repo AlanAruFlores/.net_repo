@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\bin\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.deps.json
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\bin\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\bin\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\bin\Debug\net8.0\PW3EntityFrameworkEjemplo.Data.dll
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\bin\Debug\net8.0\PW3EntityFrameworkEjemplo.Data.pdb
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3Entit.C9DB45E2.Up2Date
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\refint\PW3EntityFrameworkEjemplo.Logica.dll
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\PW3EntityFrameworkEjemplo.Logica.pdb
+C:\Users\Alan\Desktop\.NET Projects\PW3EntityFrameworkEjemplo\PW3EntityFrameworkEjemplo.Logica\obj\Debug\net8.0\ref\PW3EntityFrameworkEjemplo.Logica.dll
