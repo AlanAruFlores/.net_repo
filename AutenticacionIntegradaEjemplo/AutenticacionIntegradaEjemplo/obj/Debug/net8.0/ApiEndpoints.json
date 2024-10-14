@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AutenticacionIntegradaEjemplo.Controllers.SeguridadController",
+    "Method": "AccederEndpointSeguro",
+    "RelativePath": "api/Seguridad/AccederEndpointSeguro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AutenticacionIntegradaEjemplo.Controllers.SeguridadController",
+    "Method": "Login",
+    "RelativePath": "api/Seguridad/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "AutenticacionIntegradaEjemplo.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
