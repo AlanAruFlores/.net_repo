@@ -18,5 +18,102 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "PW3EntityFrameworkEjemploWeb.Controllers.TesoroController",
+    "Method": "PostTesoro",
+    "RelativePath": "api/Tesoro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tesoro",
+        "Type": "PW3EntityFrameworkEjemplo.Data.Entidades.Tesoro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PW3EntityFrameworkEjemploWeb.Controllers.TesoroController",
+    "Method": "GetTesoroById",
+    "RelativePath": "api/Tesoro/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PW3EntityFrameworkEjemplo.Data.Entidades.Tesoro",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PW3EntityFrameworkEjemploWeb.Controllers.TesoroController",
+    "Method": "UpdateTesoro",
+    "RelativePath": "api/Tesoro/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tesoro",
+        "Type": "PW3EntityFrameworkEjemplo.Data.Entidades.Tesoro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PW3EntityFrameworkEjemploWeb.Controllers.TesoroController",
+    "Method": "DeleteTesoro",
+    "RelativePath": "api/Tesoro/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

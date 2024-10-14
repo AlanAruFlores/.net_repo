@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW3EntityFrameworkEjemploWeb", "WebApplication1\PW3EntityFrameworkEjemploWeb.csproj", "{AEF79205-E04D-43E4-B674-32ECD0222192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PW3EntityFrameworkEjemploWeb", "WebApplication1\PW3EntityFrameworkEjemploWeb.csproj", "{AEF79205-E04D-43E4-B674-32ECD0222192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW3EntityFrameworkEjemplo.Data", "PW3EntityFrameworkEjemplo.Data\PW3EntityFrameworkEjemplo.Data.csproj", "{59A32456-CA4D-4C9B-BD73-3E323716E9E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PW3EntityFrameworkEjemplo.Data", "PW3EntityFrameworkEjemplo.Data\PW3EntityFrameworkEjemplo.Data.csproj", "{59A32456-CA4D-4C9B-BD73-3E323716E9E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW3EntityFrameworkEjemplo.Logica", "PW3EntityFrameworkEjemplo.Logica\PW3EntityFrameworkEjemplo.Logica.csproj", "{B84CEC7C-9174-4FB4-A553-3AB2B6051377}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PW3EntityFrameworkEjemplo.Logica", "PW3EntityFrameworkEjemplo.Logica\PW3EntityFrameworkEjemplo.Logica.csproj", "{B84CEC7C-9174-4FB4-A553-3AB2B6051377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW3EntityFrameworkEjemplo.Test", "PW3EntityFrameworkEjemplo.Test\PW3EntityFrameworkEjemplo.Test.csproj", "{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B84CEC7C-9174-4FB4-A553-3AB2B6051377}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B84CEC7C-9174-4FB4-A553-3AB2B6051377}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B84CEC7C-9174-4FB4-A553-3AB2B6051377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

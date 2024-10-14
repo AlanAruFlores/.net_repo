@@ -28,9 +28,11 @@ namespace PW3EntityFrameworkEjemplo.Logica
 
         public Tesoro ObtenerTesoroPorId(int id)
         {
+            if(_pw3TesoroContext.Tesoros.ToList().Count == 0)
+                return null;
+
             return _pw3TesoroContext.Tesoros.ToList()
                 .Where(t => t.Id == id).First();
-
         }
 
         public void AgregarTesoro(Tesoro tesoro) { 
