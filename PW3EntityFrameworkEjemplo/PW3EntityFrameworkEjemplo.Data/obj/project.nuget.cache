@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1+2s0Q2UE0=",
+  "dgSpecHash": "5QkjteWDHUk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj",
+  "projectFilePath": "C:\\Users\\Alan\\Desktop\\.NET\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Alan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alan\\Desktop\\.NET Projects\\AutenticacionIntegradaEjemplo\\AutenticacionIntegradaEjemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A32456-CA4D-4C9B-BD73-3E323716E9E5}|PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj|c:\\users\\alan\\desktop\\.net projects\\pw3entityframeworkejemplo\\pw3entityframeworkejemplo.data\\entidades\\pw3tesorocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A32456-CA4D-4C9B-BD73-3E323716E9E5}|PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj|solutionrelative:pw3entityframeworkejemplo.data\\entidades\\pw3tesorocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}|PW3EntityFrameworkEjemplo.Test\\PW3EntityFrameworkEjemplo.Test.csproj|c:\\users\\alan\\desktop\\.net projects\\pw3entityframeworkejemplo\\pw3entityframeworkejemplo.test\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B0DDC75-0CF6-4888-8016-3E693CEDECB2}|PW3EntityFrameworkEjemplo.Test\\PW3EntityFrameworkEjemplo.Test.csproj|solutionrelative:pw3entityframeworkejemplo.test\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B84CEC7C-9174-4FB4-A553-3AB2B6051377}|PW3EntityFrameworkEjemplo.Logica\\PW3EntityFrameworkEjemplo.Logica.csproj|c:\\users\\alan\\desktop\\.net projects\\pw3entityframeworkejemplo\\pw3entityframeworkejemplo.logica\\tesoroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B84CEC7C-9174-4FB4-A553-3AB2B6051377}|PW3EntityFrameworkEjemplo.Logica\\PW3EntityFrameworkEjemplo.Logica.csproj|solutionrelative:pw3entityframeworkejemplo.logica\\tesoroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A32456-CA4D-4C9B-BD73-3E323716E9E5}|PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj|c:\\users\\alan\\desktop\\.net projects\\pw3entityframeworkejemplo\\pw3entityframeworkejemplo.data\\entidades\\pw3tesorocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59A32456-CA4D-4C9B-BD73-3E323716E9E5}|PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj|solutionrelative:pw3entityframeworkejemplo.data\\entidades\\pw3tesorocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59A32456-CA4D-4C9B-BD73-3E323716E9E5}|PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj|c:\\users\\alan\\desktop\\.net projects\\pw3entityframeworkejemplo\\pw3entityframeworkejemplo.data\\entidades\\tesoro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,6 +46,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\AutenticacionIntegradaEjemplo\\AutenticacionIntegradaEjemplo\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AutenticacionIntegradaEjemplo\\AutenticacionIntegradaEjemplo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alan\\Desktop\\.NET Projects\\AutenticacionIntegradaEjemplo\\AutenticacionIntegradaEjemplo\\appsettings.json",
+              "RelativeToolTip": "..\\AutenticacionIntegradaEjemplo\\AutenticacionIntegradaEjemplo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T12:52:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TestBase.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Test\\TestBase.cs",
               "RelativeDocumentMoniker": "PW3EntityFrameworkEjemplo.Test\\TestBase.cs",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TesoroServicioTest.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Test\\TesoroServicioTest.cs",
               "RelativeDocumentMoniker": "PW3EntityFrameworkEjemplo.Test\\TesoroServicioTest.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TesoroController.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\WebApplication1\\Controllers\\TesoroController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TesoroController.cs",
@@ -81,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TesoroServicio.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\TesoroServicio.cs",
               "RelativeDocumentMoniker": "PW3EntityFrameworkEjemplo.Logica\\TesoroServicio.cs",
@@ -94,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Tesoro.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\Entidades\\Tesoro.cs",
               "RelativeDocumentMoniker": "PW3EntityFrameworkEjemplo.Data\\Entidades\\Tesoro.cs",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Pw3TesoroContext.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\Entidades\\Pw3TesoroContext.cs",
               "RelativeDocumentMoniker": "PW3EntityFrameworkEjemplo.Data\\Entidades\\Pw3TesoroContext.cs",
@@ -120,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",

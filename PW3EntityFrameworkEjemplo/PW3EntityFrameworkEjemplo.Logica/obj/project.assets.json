@@ -2773,11 +2773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\PW3EntityFrameworkEjemplo.Logica.csproj",
+      "projectUniqueName": "C:\\Users\\Alan\\Desktop\\.NET\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\PW3EntityFrameworkEjemplo.Logica.csproj",
       "projectName": "PW3EntityFrameworkEjemplo.Logica",
-      "projectPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\PW3EntityFrameworkEjemplo.Logica.csproj",
+      "projectPath": "C:\\Users\\Alan\\Desktop\\.NET\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\PW3EntityFrameworkEjemplo.Logica.csproj",
       "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\obj\\",
+      "outputPath": "C:\\Users\\Alan\\Desktop\\.NET\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Logica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2799,8 +2799,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj": {
-              "projectPath": "C:\\Users\\Alan\\Desktop\\.NET Projects\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj"
+            "C:\\Users\\Alan\\Desktop\\.NET\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj": {
+              "projectPath": "C:\\Users\\Alan\\Desktop\\.NET\\PW3EntityFrameworkEjemplo\\PW3EntityFrameworkEjemplo.Data\\PW3EntityFrameworkEjemplo.Data.csproj"
             }
           }
         }
