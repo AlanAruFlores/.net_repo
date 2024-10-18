@@ -1,0 +1,54 @@
+﻿@using RelacionesEntityFramework.Data.Enum;
+@model RelacionesEntityFramework.Data.Entidades.Jugador
+
+@using (Html.BeginForm("Agregar", "Jugador", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(Model => Model.Nombre)
+        ;
+        @Html.EditorFor(Model => Model.Nombre)
+        ;
+
+    </div>
+
+    <div>
+        @Html.LabelFor(Model => Model.Apellido)
+        ;
+        @Html.EditorFor(Model => Model.Apellido)
+        ;
+
+    </div>
+
+    <div>
+        @Html.LabelFor(Model => Model.FechaNacimiento)
+        ;
+        @Html.EditorFor(Model => Model.FechaNacimiento)
+        ;
+
+    </div>
+    <div>
+        @Html.LabelFor(Model => Model.PiernaHabil);
+        @*Recorro cada valor del enumerador*@
+        @foreach (var piernaItem in Enum.GetValues(typeof(Enums.PiernaHabil)))
+        {
+            <div>
+                @Html.RadioButtonFor(Model => Model.PiernaHabil , (int)piernaItem);
+                @piernaItem
+            </div>
+            
+        }
+
+    </div>
+    <div>
+        @Html.LabelFor(Model => Model.IdSeleccion)
+        ;
+        <!--Dibuja un drodown de las selecciones donde su valor es Id y su value el nombre de cada seleccion (similar a foreach)-->
+        @Html.DropDownListFor(Model => Model.IdSeleccion, new SelectList(ViewBag.Selecciones,"IdSeleccion","Nombre"));
+        
+
+    </div>
+
+
+
+    <input type="submit" value="Enviar" />
+}

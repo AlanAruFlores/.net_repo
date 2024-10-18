@@ -1,0 +1,15 @@
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\bin\Debug\net8.0\RelacionesEntityFramework.Data.deps.json
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\bin\Debug\net8.0\RelacionesEntityFramework.Data.runtimeconfig.json
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\bin\Debug\net8.0\RelacionesEntityFramework.Data.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\bin\Debug\net8.0\RelacionesEntityFramework.Data.pdb
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.sourcelink.json
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\refint\RelacionesEntityFramework.Data.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.pdb
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\RelacionesEntityFramework.Data.genruntimeconfig.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Data\obj\Debug\net8.0\ref\RelacionesEntityFramework.Data.dll

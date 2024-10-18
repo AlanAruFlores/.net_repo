@@ -1,0 +1,11 @@
+﻿@model RelacionesEntityFramework.Data.Entidades.Seleccion
+
+@using (Html.BeginForm("Agregar", "Seleccion", FormMethod.Post)){ 
+    @Html.LabelFor(Model=>Model.Nombre);
+    @Html.EditorFor(Model=>Model.Nombre);
+
+    @Html.LabelFor(Model => Model.Escudo);
+    @Html.EditorFor(Model => Model.Escudo);
+
+    <input type="submit" value="Enviar"/>
+}

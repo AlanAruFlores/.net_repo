@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\bin\Debug\net8.0\RelacionesEntityFramework.Logica.deps.json
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\bin\Debug\net8.0\RelacionesEntityFramework.Logica.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\bin\Debug\net8.0\RelacionesEntityFramework.Logica.pdb
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\bin\Debug\net8.0\RelacionesEntityFramework.Data.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\bin\Debug\net8.0\RelacionesEntityFramework.Data.pdb
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\Relacion.932347F3.Up2Date
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\refint\RelacionesEntityFramework.Logica.dll
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\RelacionesEntityFramework.Logica.pdb
+C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework.Logica\obj\Debug\net8.0\ref\RelacionesEntityFramework.Logica.dll

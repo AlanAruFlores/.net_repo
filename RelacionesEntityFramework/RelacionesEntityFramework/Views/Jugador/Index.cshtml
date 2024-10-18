@@ -1,0 +1,29 @@
+﻿@model List<RelacionesEntityFramework.Data.Entidades.Jugador>
+@using RelacionesEntityFramework.Data.Enum;
+
+<h2>Jugadores</h2>
+<a asp-controller="Jugador" asp-action="Agregar">Agregar</a>
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Fecha Nacimiento</th>
+            <th>Pierna Habil</th>
+            <th>Seleccion</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.FechaNacimiento</td>
+                <td>@((Enums.PiernaHabil)item.PiernaHabil)</td>
+                <td>@item.IdSeleccionNavigation.Nombre</td>
+            </tr>
+        }
+    </tbody>
+</table>

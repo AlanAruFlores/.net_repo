@@ -1,0 +1,14 @@
+﻿
+<h2>Incorporar jugador a la seleccion @ViewBag.NombreSeleccion</h2>
+
+@using (Html.BeginForm("Agregar", "Seleccion", FormMethod.Post)){
+    <label>Jugador:</label>
+    <select name="idJugador">
+        @foreach (var j in ViewBag.Jugadores)
+        {
+            <option value="@j.IdJugador">@j.Apellido, @j.Nombre (@j.IdSeleccionNavigation.Nombre)</option>
+        }
+    </select>
+    <br />
+    <input type="submit" value="Enviar"/>
+}

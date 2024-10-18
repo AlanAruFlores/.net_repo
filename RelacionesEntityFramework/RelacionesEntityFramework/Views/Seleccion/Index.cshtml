@@ -1,0 +1,30 @@
+﻿@model List<RelacionesEntityFramework.Data.Entidades.Seleccion>
+
+
+<h2>Selecciones</h2>
+<a asp-controller="Seleccion" asp-action="Agregar">Agregar</a>
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Escudo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Escudo</td>
+                <td>
+                    <a asp-controller="Seleccion" asp-action="IncorporarJugador" 
+                    asp-route-idSeleccion = "@item.IdSeleccion"> Incorporar jugador</a>
+                </td>
+                <td>
+                    <a asp-controller="Jugador" asp-action="VerJugadorPorSeleccion"
+                       asp-route-idSeleccion="@item.IdSeleccion">Ver Jugadores</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
