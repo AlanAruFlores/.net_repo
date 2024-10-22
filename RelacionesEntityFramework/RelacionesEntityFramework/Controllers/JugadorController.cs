@@ -37,6 +37,7 @@ namespace RelacionesEntityFramework.Controllers
         {
             if (!ModelState.IsValid)
             {
+                ViewBag.Selecciones = await _seleccionLogica.ObtenerTodasAsync();
                 return View(jugador);
             }
             await _jugadorLogica.GuardarJugador(jugador);
