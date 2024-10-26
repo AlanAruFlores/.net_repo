@@ -17,6 +17,8 @@ public partial class EliminatoriasDbContext : DbContext
 
     public virtual DbSet<Jugador> Jugadors { get; set; }
 
+    public virtual DbSet<Partido> Partidos { get; set; }
+
     public virtual DbSet<Seleccion> Seleccions { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -40,6 +42,30 @@ public partial class EliminatoriasDbContext : DbContext
             entity.HasOne(d => d.IdSeleccionNavigation).WithMany(p => p.Jugadors)
                 .HasForeignKey(d => d.IdSeleccion)
                 .HasConstraintName("FK_Jugador_Seleccion");
+        });
+
+        modelBuilder.Entity<Partido>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__Partido__3213E83FAE5AADE4");
+
+            entity.ToTable("Partido");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Estadio)
+                .HasMaxLength(255)
+                .HasColumnName("estadio");
+            entity.Property(e => e.GolesLocal).HasColumnName("goles_local");
+            entity.Property(e => e.GolesVisitante).HasColumnName("goles_visitante");
+            entity.Property(e => e.LocalId).HasColumnName("local_id");
+            entity.Property(e => e.VisitanteId).HasColumnName("visitante_id");
+
+            entity.HasOne(d => d.Local).WithMany(p => p.PartidoLocals)
+                .HasForeignKey(d => d.LocalId)
+                .HasConstraintName("FK__Partido__local_i__3A81B327");
+
+            entity.HasOne(d => d.Visitante).WithMany(p => p.PartidoVisitantes)
+                .HasForeignKey(d => d.VisitanteId)
+                .HasConstraintName("FK__Partido__visitan__398D8EEE");
         });
 
         modelBuilder.Entity<Seleccion>(entity =>

@@ -1,0 +1,48 @@
+﻿@model RelacionesEntityFramework.Data.Entidades.Partido
+
+<h2>Agregar nuevo partido</h2>
+
+@using (Html.BeginForm("Agregar", "Partido", FormMethod.Post))
+{
+    
+    <div>
+        @Html.LabelFor(Model => Model.LocalId)
+        ;
+        <!--Dibuja un drodown de las selecciones donde su valor es Id y su value el nombre de cada seleccion (similar a foreach)-->
+        @Html.DropDownListFor(Model => Model.LocalId, new SelectList(ViewBag.Selecciones, "IdSeleccion", "Nombre"));
+        <span asp-validation-for="LocalId" class="text-danger"></span>
+    </div>
+
+    <div>
+        @Html.LabelFor(Model => Model.VisitanteId)
+        ;
+        <!--Dibuja un drodown de las selecciones donde su valor es Id y su value el nombre de cada seleccion (similar a foreach)-->
+        @Html.DropDownListFor(Model => Model.VisitanteId, new SelectList(ViewBag.Selecciones, "IdSeleccion", "Nombre"));
+        <span asp-validation-for="VisitanteId" class="text-danger"></span>
+
+    </div>
+
+    <div>
+        @Html.LabelFor(Model=>Model.GolesLocal)
+        @Html.EditorFor(Model => Model.GolesLocal)
+        <span asp-validation-for="GolesLocal" class="text-danger"></span>
+
+    </div>
+
+    <div>
+        @Html.LabelFor(Model => Model.GolesVisitante)
+        @Html.EditorFor(Model => Model.GolesVisitante)
+        <span asp-validation-for="GolesVisitante" class="text-danger"></span>
+
+    </div>
+
+
+    <div>
+        @Html.LabelFor(Model => Model.Estadio)
+        @Html.EditorFor(Model => Model.Estadio)
+        <span asp-validation-for="Estadio" class="text-danger"></span>
+
+    </div>
+
+    <input type="submit" value="Enviar" />
+}

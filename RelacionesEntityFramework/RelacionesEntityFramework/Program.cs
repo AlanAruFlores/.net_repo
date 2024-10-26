@@ -8,6 +8,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ISeleccionLogica,SeleccionLogica>();
 builder.Services.AddScoped<IJugadorLogica, JugadorLogica>();
 builder.Services.AddScoped<EliminatoriasDbContext>();
+builder.Services.AddScoped<IPartidoLogica,PartidoLogica>();
 
 var app = builder.Build();
 

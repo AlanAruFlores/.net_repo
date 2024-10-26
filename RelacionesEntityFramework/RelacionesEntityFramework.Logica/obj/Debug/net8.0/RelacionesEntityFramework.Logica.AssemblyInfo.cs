@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RelacionesEntityFramework.Logica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46b7f02edcbb51c2757572db72ae62c056240414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3da3040be76dc0ed5d897ec05461ce15f5fa0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RelacionesEntityFramework.Logica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RelacionesEntityFramework.Logica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

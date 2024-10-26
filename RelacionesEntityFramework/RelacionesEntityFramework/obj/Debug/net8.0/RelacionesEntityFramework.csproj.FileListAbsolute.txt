@@ -145,4 +145,3 @@ C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework\o
 C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework\obj\Debug\net8.0\ref\RelacionesEntityFramework.dll
 C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework\bin\Debug\net8.0\RelacionesEntityFramework.Logica.dll
 C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework\bin\Debug\net8.0\RelacionesEntityFramework.Logica.pdb
-C:\Users\Alan\Desktop\.NET\RelacionesEntityFramework\RelacionesEntityFramework\obj\Debug\net8.0\RelacionesEntityFramework.MvcApplicationPartsAssemblyInfo.cs
