@@ -1,0 +1,18 @@
+﻿@model ModeloParcial2PW3.Entidades.Entidades.Piloto
+
+
+@using (Html.BeginForm("Agregar", "Piloto", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(Model=>Model.NombrePiloto)
+        @Html.EditorFor(Model=>Model.NombrePiloto)
+    </div>    
+
+    <div>
+        @Html.LabelFor(Model=>Model.IdEscuderia)
+        @Html.DropDownListFor(Model => Model.IdEscuderia, new SelectList(ViewBag.Escuderias, "IdEscuderia", "NombreEscuderia"));
+    </div>
+
+    <input type="submit" value="Enviar"/>
+
+}

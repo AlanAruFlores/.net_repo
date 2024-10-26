@@ -1,0 +1,41 @@
+﻿@model ModeloParcial2PW3.Entidades.Entidades.Escuderium
+
+
+<h2>Lista Pilotos</h2>
+<a asp-controller="Piloto" asp-action="Agregar">Agregar</a>
+
+@using (Html.BeginForm("FitrarEscuderia", "Piloto", FormMethod.Post)){
+    <div>
+        @Html.LabelFor(Model => Model.NombreEscuderia)
+        @Html.DropDownListFor(Model => Model.NombreEscuderia, new SelectList(ViewBag.Escuderias, "NombreEscuderia", "NombreEscuderia"));
+    </div>
+    <input type="submit" value="Filtrar" />
+}
+
+
+<table>
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Nombre</td>
+            <td>Escuderia</td>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var item in ViewBag.Pilotos)
+        {
+            <tr>
+                <td>@item.IdPiloto</td>
+                <td>@item.NombrePiloto</td>
+                <td>@item.IdEscuderiaNavigation.NombreEscuderia</td>
+                <td>
+                    <a asp-controller="Piloto" asp-action="Eliminar" asp-route-id="@item.IdPiloto">Eliminar</a>
+
+                </td>
+            </tr>    
+        }
+
+    </tbody>
+
+</tab>

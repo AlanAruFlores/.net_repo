@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ModeloParcial2PW3.props" />
+</Project>

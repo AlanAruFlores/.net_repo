@@ -1,0 +1,15 @@
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\bin\Debug\net8.0\ModeloParcial2PW3.Entidades.deps.json
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\bin\Debug\net8.0\ModeloParcial2PW3.Entidades.runtimeconfig.json
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\bin\Debug\net8.0\ModeloParcial2PW3.Entidades.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\bin\Debug\net8.0\ModeloParcial2PW3.Entidades.pdb
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.sourcelink.json
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\refint\ModeloParcial2PW3.Entidades.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.pdb
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ModeloParcial2PW3.Entidades.genruntimeconfig.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Entidades\obj\Debug\net8.0\ref\ModeloParcial2PW3.Entidades.dll

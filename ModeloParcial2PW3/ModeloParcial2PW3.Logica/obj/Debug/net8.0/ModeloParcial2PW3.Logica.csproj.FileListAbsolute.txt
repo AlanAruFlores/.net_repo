@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\bin\Debug\net8.0\ModeloParcial2PW3.Logica.deps.json
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\bin\Debug\net8.0\ModeloParcial2PW3.Logica.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\bin\Debug\net8.0\ModeloParcial2PW3.Logica.pdb
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\bin\Debug\net8.0\ModeloParcial2PW3.Entidades.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\bin\Debug\net8.0\ModeloParcial2PW3.Entidades.pdb
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.AssemblyInfo.cs
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.sourcelink.json
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloPa.BFED2C49.Up2Date
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\refint\ModeloParcial2PW3.Logica.dll
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ModeloParcial2PW3.Logica.pdb
+C:\Users\Alan\Desktop\.NET\ModeloParcial2PW3\ModeloParcial2PW3.Logica\obj\Debug\net8.0\ref\ModeloParcial2PW3.Logica.dll
