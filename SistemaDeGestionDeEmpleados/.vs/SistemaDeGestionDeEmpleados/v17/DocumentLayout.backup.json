@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\views\\shared\\_sucursalesfiltropartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\views\\shared\\_sucursalesfiltropartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857E2576-9EC1-4C21-A60C-012E1C479B1F}|SistemaDeGestionDeEmpleados.Servicios\\SistemaDeGestionDeEmpleados.Servicios.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados.servicios\\empleadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857E2576-9EC1-4C21-A60C-012E1C479B1F}|SistemaDeGestionDeEmpleados.Servicios\\SistemaDeGestionDeEmpleados.Servicios.csproj|solutionrelative:sistemadegestiondeempleados.servicios\\empleadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053A4A96-557E-45FC-8CBD-7F3296F097E4}|SistemaDeGestionDeEmpleados.Data\\SistemaDeGestionDeEmpleados.Data.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados.data\\entidades\\modelopw3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053A4A96-557E-45FC-8CBD-7F3296F097E4}|SistemaDeGestionDeEmpleados.Data\\SistemaDeGestionDeEmpleados.Data.csproj|solutionrelative:sistemadegestiondeempleados.data\\entidades\\modelopw3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\views\\empleado\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\views\\empleado\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053A4A96-557E-45FC-8CBD-7F3296F097E4}|SistemaDeGestionDeEmpleados.Data\\SistemaDeGestionDeEmpleados.Data.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados.data\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053A4A96-557E-45FC-8CBD-7F3296F097E4}|SistemaDeGestionDeEmpleados.Data\\SistemaDeGestionDeEmpleados.Data.csproj|solutionrelative:sistemadegestiondeempleados.data\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053A4A96-557E-45FC-8CBD-7F3296F097E4}|SistemaDeGestionDeEmpleados.Data\\SistemaDeGestionDeEmpleados.Data.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados.data\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053A4A96-557E-45FC-8CBD-7F3296F097E4}|SistemaDeGestionDeEmpleados.Data\\SistemaDeGestionDeEmpleados.Data.csproj|solutionrelative:sistemadegestiondeempleados.data\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2ED755-7C91-4A50-86D6-7A4DF733D100}|SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Web.csproj|solutionrelative:sistemadegestiondeempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857E2576-9EC1-4C21-A60C-012E1C479B1F}|SistemaDeGestionDeEmpleados.Servicios\\SistemaDeGestionDeEmpleados.Servicios.csproj|c:\\users\\alan\\source\\repos\\sistemadegestiondeempleados\\sistemadegestiondeempleados.servicios\\sucursalservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857E2576-9EC1-4C21-A60C-012E1C479B1F}|SistemaDeGestionDeEmpleados.Servicios\\SistemaDeGestionDeEmpleados.Servicios.csproj|solutionrelative:sistemadegestiondeempleados.servicios\\sucursalservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:23:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:22:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SucursalesFiltroPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Shared\\_SucursalesFiltroPartial.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Views\\Shared\\_SucursalesFiltroPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Shared\\_SucursalesFiltroPartial.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Views\\Shared\\_SucursalesFiltroPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:11:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:32:25.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Servicios\\EmpleadoServicio.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados.Servicios\\EmpleadoServicio.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Servicios\\EmpleadoServicio.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados.Servicios\\EmpleadoServicio.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:59:23.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:01:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModeloPw3Context.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Data\\Entidades\\ModeloPw3Context.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados.Data\\Entidades\\ModeloPw3Context.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Data\\Entidades\\ModeloPw3Context.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados.Data\\Entidades\\ModeloPw3Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:04:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Empleado\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Views\\Empleado\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Views\\Empleado\\Agregar.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Views\\Empleado\\Agregar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:41:43.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SucursalServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Servicios\\SucursalServicio.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados.Servicios\\SucursalServicio.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Servicios\\SucursalServicio.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados.Servicios\\SucursalServicio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:34:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Data\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados.Data\\Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Data\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados.Data\\Entidades\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:44:50.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Data\\Entidades\\Sucursal.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados.Data\\Entidades\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados.Data\\Entidades\\Sucursal.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados.Data\\Entidades\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:47:48.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEmpleados\\Program.cs",
+              "ToolTip": "C:\\Users\\Alan\\source\\repos\\SistemaDeGestionDeEmpleados\\SistemaDeGestionDeEmpleados\\Program.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEmpleados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:33:02.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

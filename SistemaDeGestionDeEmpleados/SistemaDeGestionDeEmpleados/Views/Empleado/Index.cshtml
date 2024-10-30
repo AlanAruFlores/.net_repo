@@ -1,0 +1,35 @@
+﻿@model List<SistemaDeGestionDeEmpleados.Data.Entidades.Empleado>
+
+    <h1>Empleados:</h1>
+  
+    <h2>Filtro por sucursal</h2>
+
+    @using (Html.BeginForm("Index", "Empleado", FormMethod.Get))
+    {
+        <partial name="_SucursalesFiltroPartial"/>
+        <input type="submit" value="Filtrar"/>
+    }
+
+
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre Completo del Empleado</th>
+                <th>Sucursal</th>
+                <th>Ciudad</th>
+                <th>Direccion</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.NombreCompleto</td>
+                <td>@item.IdSucursalNavigation.Nombre</td>
+                <td>@item.IdSucursalNavigation.Ciudad</td>
+                <td>@item.IdSucursalNavigation.Direccion</td>
+            </tr>        
+
+        }
+        </tbody>
+    </table>

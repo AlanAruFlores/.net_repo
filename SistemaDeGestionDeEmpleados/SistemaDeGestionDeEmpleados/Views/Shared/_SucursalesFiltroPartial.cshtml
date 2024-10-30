@@ -1,0 +1,21 @@
+﻿@using SistemaDeGestionDeEmpleados.Data.Entidades
+<label>Sucursales</label>
+<select id="IdSucursal" name="IdSucursal">
+    <option>Todos</option>
+
+
+    @*Sirve para evaluar si una sucursal fue seleccionada, y si fuese asi mostrar seleccionada dicha opcion en el combo*@
+    @foreach (Sucursal item in ViewBag.Sucursales)
+    {
+        if (((int?)ViewBag.IdSucursalSeleccionada).HasValue && ((int?)ViewBag.IdSucursalSeleccionada) == item.IdSucursal)
+        {
+            <option value="@item.IdSucursal" selected >@item.Nombre</option>
+        }
+        else
+        {
+            <option value="@item.IdSucursal" >@item.Nombre</option>
+
+        }
+
+    }
+</select>

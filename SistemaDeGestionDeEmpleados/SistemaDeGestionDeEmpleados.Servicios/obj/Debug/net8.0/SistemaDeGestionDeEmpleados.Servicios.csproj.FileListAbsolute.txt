@@ -1,0 +1,15 @@
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.deps.json
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.pdb
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.AssemblyInfo.cs
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\refint\SistemaDeGestionDeEmpleados.Servicios.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.pdb
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\ref\SistemaDeGestionDeEmpleados.Servicios.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.pdb
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Servicios.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Servicios\obj\Debug\net8.0\SistemaD.2325CA12.Up2Date

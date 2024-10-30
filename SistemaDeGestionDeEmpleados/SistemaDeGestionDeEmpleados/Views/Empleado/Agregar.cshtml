@@ -1,0 +1,17 @@
+﻿@model SistemaDeGestionDeEmpleados.Data.Entidades.Empleado
+
+
+@using (Html.BeginForm("Agregar","Empleado",FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(Model=>Model.NombreCompleto,"Nombre del empleado")
+        @Html.EditorFor(Model=>Model.NombreCompleto)
+    </div>
+
+    <div>
+        @Html.LabelFor(Model=>Model.IdSucursal, "Selecciona la sucursal")
+        @Html.DropDownListFor(Model => Model.IdSucursal, new SelectList(ViewBag.Sucursales, "IdSucursal", "Nombre"));
+    </div>
+
+    <input type="submit" value="Crear Empleado" class="btn btn-success">
+}

@@ -1,0 +1,14 @@
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.deps.json
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.runtimeconfig.json
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\bin\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.pdb
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.AssemblyInfoInputs.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.AssemblyInfo.cs
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\refint\SistemaDeGestionDeEmpleados.Data.dll
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.pdb
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\SistemaDeGestionDeEmpleados.Data.genruntimeconfig.cache
+C:\Users\Alan\source\repos\SistemaDeGestionDeEmpleados\SistemaDeGestionDeEmpleados.Data\obj\Debug\net8.0\ref\SistemaDeGestionDeEmpleados.Data.dll
