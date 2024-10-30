@@ -7,7 +7,8 @@
 @using (Html.BeginForm("FitrarEscuderia", "Piloto", FormMethod.Post)){
     <div>
         @Html.LabelFor(Model => Model.NombreEscuderia)
-        @Html.DropDownListFor(Model => Model.NombreEscuderia, new SelectList(ViewBag.Escuderias, "NombreEscuderia", "NombreEscuderia"));
+
+        @Html.DropDownListFor(Model => Model.NombreEscuderia, new SelectList(ViewBag.Escuderias, "NombreEscuderia", "NombreEscuderia"), "Seleccione Escuderia");
     </div>
     <input type="submit" value="Filtrar" />
 }

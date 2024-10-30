@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModeloParcial2PW3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d6cf04a83624da17b8c26533089abbeb45a17e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc22881821761671f96dcd0194cb7ad1a71bde1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModeloParcial2PW3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModeloParcial2PW3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
